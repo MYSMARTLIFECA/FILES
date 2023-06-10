@@ -15,7 +15,7 @@
   var result2 = futureDate2.toLocaleString('default', { month: 'short', day: 'numeric' });
   
   // Get all the elements with the class "timeDisplay"
-  var timeDisplays = document.getElementsByClassName("timeDisplay");
+  var timeDisplays = document.getElementsByClassName("otheritems");
   
   // Loop through each element and set the inner text
   for (var i = 0; i < timeDisplays.length; i++) {
