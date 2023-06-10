@@ -30,7 +30,7 @@ function generateDeliveryTracker() {
   var orderShipsDate = "Today";
   document.getElementById("orderShipsDate").textContent = orderShipsDate;
 
-  var deliveryTime = "Before 11PM";
+  var deliveryTime = "Today";
   if (currentDate >= cutOffTime) {
     // If the current time is after or at the cutoff, set the delivery time to tomorrow
     var tomorrowDate = new Date(currentDate);
