@@ -8,7 +8,7 @@
   futureDate1.setDate(futureDate1.getDate() + 6);
   
   // Add 11 days to the future date 2
-  futureDate2.setDate(futureDate2.getDate() + 18);
+  futureDate2.setDate(futureDate2.getDate() + 14);
   
   // Format the result as "MMM DD" string
   var result1 = futureDate1.toLocaleString('default', { month: 'short', day: 'numeric' });
