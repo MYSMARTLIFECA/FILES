@@ -1,0 +1,26 @@
+.v {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .Heading {
+    font-size: 1.2em;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .small-image {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .custom-description {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0;
+  }
