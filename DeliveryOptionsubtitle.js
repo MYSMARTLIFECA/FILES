@@ -88,9 +88,9 @@ function generateDeliveryTrackerExtended() {
   document.getElementById("currentDateExtended").textContent = formatDate(currentDate);
 
   var datePlusThreeToFive = new Date();
-  datePlusThreeToFive.setDate(currentDate.getDate() + 3);
+  datePlusThreeToFive.setDate(currentDate.getDate() + 1);
   var datePlusFive = new Date();
-  datePlusFive.setDate(currentDate.getDate() + 5);
+  datePlusFive.setDate(currentDate.getDate() + 4);
   document.getElementById("datePlusThreeToFive").textContent = formatDate(datePlusThreeToFive) + " - " + formatDate(datePlusFive);
 
   var datePlusEightToEleven = new Date();
