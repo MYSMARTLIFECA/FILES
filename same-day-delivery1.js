@@ -52,6 +52,24 @@ function generatesameDeliveryTracker() {
 document.addEventListener("DOMContentLoaded", generatesameDeliveryTracker);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function generateDeliveryTrackerExtended() {
   var deliveryTrackerHTML = `
     <div class="delivery-container">
@@ -72,6 +90,7 @@ function generateDeliveryTrackerExtended() {
       </div>
     </div>
   `;
+
 
   document.getElementById("delivery-tracker-extended").innerHTML = deliveryTrackerHTML;
 
