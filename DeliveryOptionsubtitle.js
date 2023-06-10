@@ -140,15 +140,15 @@ function generateDeliveryTrackerforotheritems() {
   document.getElementById("currentDate").textContent = formatDate(currentDate);
 
   var datePlusThreeToFive = new Date();
-  datePlusThreeToFive.setDate(currentDate.getDate() + 4);
+  datePlusThreeToFive.setDate(currentDate.getDate() + 1);
   var datePlusFive = new Date();
-  datePlusFive.setDate(currentDate.getDate() + 5);
+  datePlusFive.setDate(currentDate.getDate() + 4);
   document.getElementById("datePlusThreeToFive").textContent = formatDate(datePlusThreeToFive) + " - " + formatDate(datePlusFive);
 
   var datePlusEightToEleven = new Date();
   datePlusEightToEleven.setDate(currentDate.getDate() + 6);
   var datePlusEleven = new Date();
-  datePlusEleven.setDate(currentDate.getDate() + 15);
+  datePlusEleven.setDate(currentDate.getDate() + 18);
   document.getElementById("datePlusEightToEleven").textContent = formatDate(datePlusEightToEleven) + " - " + formatDate(datePlusEleven);
 
   function formatDate(date) {
@@ -159,4 +159,3 @@ function generateDeliveryTrackerforotheritems() {
 }
 
 document.addEventListener('DOMContentLoaded', generateDeliveryTrackerforotheritems);
-
