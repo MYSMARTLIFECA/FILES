@@ -42,7 +42,7 @@
   }
 
   .flex-item {
-    flex-basis: calc(33.33% - 10px);
+    flex-basis: calc(33.33% - 0px);
     margin-bottom: 20px;
     font-family: "Questrial", sans-serif;
     text-align: center;
