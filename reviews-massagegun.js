@@ -5,14 +5,14 @@ const reviews = [
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "Great device. I bought this massage gun to relax my muscles after exercising... It is worth the money.",
     customerInfo: "Mia - Reviewed in Canada 🇨🇦 on 13 May 2023",
-    image: "https://i.ibb.co/F368SD7/71-RUsm4-Nyj-L-SL1600.jpg"
+    image: "https://i.postimg.cc/3xJ1sw6b/71-Q6x11m3p-L-SL1600.jpg"
   },
     {
     rating: 5,
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "INEXPENSIVE AND YET GREAT 👍. The massage gun comes in a normal box... All in all, a good and cheap device 👍👍🔝",
     customerInfo: "Jumbler - Reviewed in USA 🇺🇸 on 7 May 2023",
-    image: ""
+    image: "https://i.postimg.cc/MGnDGFz7/612-GBmqwzf-L-SL1600.jpg"
   },
     {
     rating: 5,
@@ -34,7 +34,6 @@ const reviews = [
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "For rapid regeneration. I also wanted to try it out and spent quite a long time looking for a suitable device, but I didn't want to spend tons of money either... I'll say that it works.",
     customerInfo: "BG - Reviewed in Canada 🇨🇦 on 1 May 2023",
-    image: "https://i.ibb.co/cK920tZ/71-Q6x11m3p-L-SL1600.jpg"
   },
 
   {
@@ -42,7 +41,7 @@ const reviews = [
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "My husband loves it, but I prefer a real massage. It vibrates all over the body when used and not everyone likes it, I don't like it but it seems great on the feet... according to my husband",
     customerInfo: "Tim - Reviewed in Canada 🇨🇦 on 9 May 2023",
-    image: "https://i.ibb.co/gmzspLg/612-GBmqwzf-L-SL1600.jpg"
+    
   },
   {
     rating: 5,
