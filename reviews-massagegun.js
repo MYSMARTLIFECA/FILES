@@ -34,6 +34,7 @@ const reviews = [
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "For rapid regeneration. I also wanted to try it out and spent quite a long time looking for a suitable device, but I didn't want to spend tons of money either... I'll say that it works.",
     customerInfo: "BG - Reviewed in Canada 🇨🇦 on 1 May 2023",
+    image: "https://i.postimg.cc/VvgMgqYs/71-RUsm4-Nyj-L-SL1600.jpg"
   },
 
   {
@@ -48,21 +49,19 @@ const reviews = [
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "Great price/quality. I'm very satisfied with the price. The gun works great and has many levels... It feels good after hard work.",
     customerInfo: "F. Atay - Reviewed in USA 🇺🇸 on 23 May 2023",
-    image: ""
+
   },
   {
     rating: 5,
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "Great, satisfied!! I use it for a few minutes every day and I'd say it was worth every penny I spent... Some quick pros and cons that come to mind after using this product.",
     customerInfo: "Buffettt - Reviewed in Canada 🇨🇦 on 2 May 2023",
-    image: ""
   },
   {
     rating: 5,
     purchaseInfo: "MUSCLE MASSAGE GUN",
     reviewContent: "Clean product. Great device for the money, feels good in the hand and also has power... I like to use it after exercise.",
     customerInfo: "A. Aachen - Reviewed in Canada 🇨🇦 on 18 May 2023",
-    image: ""
   }
 ];
 
