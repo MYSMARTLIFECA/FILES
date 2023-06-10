@@ -1,0 +1,7 @@
+var currentDate = new Date();
+var targetDate = new Date();
+targetDate.setDate(currentDate.getDate() + 4 - 9); // Calculate the target date
+
+var messageDiv = document.createElement("div");
+messageDiv.textContent = "Get it by " + targetDate.toDateString();
+document.body.appendChild(messageDiv);
