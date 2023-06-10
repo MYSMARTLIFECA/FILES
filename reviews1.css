@@ -1,0 +1,199 @@
+    /* Reviews container */
+    .reviews-container {
+      margin-bottom: 20px;
+    }
+
+    /* Reviews list */
+    .reviews-list {
+      list-style-type: none;
+      padding: 0;
+      display: grid;
+      grid-gap: 20px;
+    }
+@media screen and (max-width: 768px) {
+    /* Styles for tablets */
+    .review {
+        padding: 5% 6%;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    /* Styles for PCs */
+    .review {
+        padding: 5% 6%;
+    }
+}
+
+    /* Review */
+    .review {
+      margin-bottom: 13px;
+      border-radius: 25px;
+      box-shadow: 5px 0 20px rgba(0, 0, 0, 0.3);
+      padding: 3% 3%;
+    }
+
+    /* Rating stars */
+    .rating {
+      color: black; /* Gold color */
+      font-size: 13px;
+    }
+
+    .fa-star {
+      margin-right: 5px;
+    }
+
+    .fa-star.checked {
+      color: black;
+    }
+
+    /* Purchase info */
+    .purchase-info {
+      color: #1e00008c;
+      font-size: 11px;
+      font-family: Questrial;
+      margin-bottom: 4px;
+    }
+
+    /* Customer info */
+    .customer-info {
+      font-family: Questrial;
+      font-size: 13px;
+      margin-left: 6px;
+      color: #8c0000;
+    }
+
+    /* Review content */
+    .review-content {
+      font-size: 15px;
+      font-family: Questrial;
+      margin: 2% 0;
+    }
+
+    /* Pagination */
+    .pagination {
+      margin-top: 20px;
+      text-align: center;
+    }
+    .customer-container {
+      display: flex;
+      align-items: center;
+    }
+    .div-reviews {
+      background-color: transparent;
+      border: none;
+      color: #000;
+      display: inline-block; 
+      cursor: pointer;
+      font-size: 14px;
+      margin-right: 5px;
+      padding: 5px;
+    }
+
+    @keyframes starcolor {
+      0% {
+        color: #5f4303;
+      }
+
+      25% {
+        color: #eb9600;
+      }
+      50% {
+        color: #5f4303;
+      }
+      75% {
+        color: #ffa404;
+      }
+      100% {
+        color: #5f4303;
+      }
+    }
+
+    .checked {
+      animation: starcolor 40s infinite ease-in-out;
+    }
+    .div-reviews:hover {
+      color: red; /* Change text color on hover */
+      border-bottom: 1px solid red; /* Add border bottom on hover */
+    }
+    .div-reviews.active {
+      font-weight: bold;
+      color: darkred;
+      font-size: 16px;
+    }
+    .grey-line {
+      border: none;
+    }
+    .user-logo {
+      width: 17px;
+      height: 17px;
+      border-radius: 50%;
+      background-color: #ffcc00;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 10px;
+      font-weight: bold;
+      text-shadow: 1px 1px 2px #000000;
+    }
+
+    #swiper-container {
+      position: relative;
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+    }
+
+    .customer-review {
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      color: white;
+      box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    .swiper-button-next {
+      right: 10px;
+    }
+
+    .swiper-button-prev {
+      left: 10px;
+    }
+
+    /* Custom scrollbar styles */
+    #swiper-container::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    #swiper-container::-webkit-scrollbar-thumb {
+      background-color: #888;
+      border-radius: 5px;
+    }
+
+    #swiper-container::-webkit-scrollbar-thumb:hover {
+      background-color: #555;
+    }
+
+    /* Media queries */
+    @media (min-width: 576px) {
+      .reviews-list {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 768px) {
+      .reviews-list {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
