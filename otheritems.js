@@ -1,4 +1,4 @@
-function generateDeliveryTracker() {
+function generateDeliveryTrackerforotheritems() {
     var deliveryTrackerHTML = `
       <div class="delivery-container">
         <div class="delivery-stage">
@@ -44,5 +44,5 @@ function generateDeliveryTracker() {
     }
   }
 
-  document.addEventListener('DOMContentLoaded', generateDeliveryTracker);
+  document.addEventListener('DOMContentLoaded', generateDeliveryTrackerforotheritems);
 
