@@ -3,7 +3,7 @@
   rolledDiv.innerHTML = `
     <h1 class="Heading Desktop-TextAlignLeft" style="font-size: 1.2em; text-align: center; color: black; font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Rolled Prints</h1>
     <div style="text-align: center;">
-      <img src="https://i.ibb.co/zn6WfmR/rolledprintsfinal3-600x.jpg" alt="Rolled Prints" class="small-image" style="max-width: 300px; display: block; margin: 0 auto;">
+      <img src="https://i.postimg.cc/1X4SfSYm/Untitled-design.png" alt="Rolled Prints" class="small-image" style="max-width: 300px; display: block; margin: 0 auto;">
     </div>
     <p class="custom-description questrial-class" style="text-align: center; padding-left: 10%; padding-right: 10%; margin: 0;">Printed materials rolled for transport. Resistant to damage. Water-resistant. Fade-proof. Yellowing-proof.</p>
   `;
@@ -36,7 +36,7 @@
   framedDiv.innerHTML = `
     <h1 class="Heading Desktop-TextAlignLeft" style="font-size: 1.2em; text-align: center; color: black; font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Framed Prints</h1>
     <div style="text-align: center;">
-      <img src="https://i.postimg.cc/1X4SfSYm/Untitled-design.png" alt="Framed Prints" class="small-image" style="max-width: 300px; display: block; margin: 0 auto;">
+      <img src="https://i.ibb.co/gDvy4Nb/Framed-Print2-600x.jpg" alt="Framed Prints" class="small-image" style="max-width: 300px; display: block; margin: 0 auto;">
     </div>
     <p class="custom-description questrial-class" style="text-align: center; padding-left: 10%; padding-right: 10%; margin: 0;">Printed materials mounted and framed. Elegant decor. Handcrafted wood frames. Crystal-clear plexiglass.</p>
   `;
