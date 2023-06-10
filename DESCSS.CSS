@@ -55,7 +55,12 @@
 
   .flex-item h1 {
     text-align: center;
-  }
+    color: black;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 100%;
+}
+
   .flex-item p {
     font-size: 75%;
     margin-top: 4%;
