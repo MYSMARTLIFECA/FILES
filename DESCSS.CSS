@@ -1,0 +1,20 @@
+@media (min-width: 768px) {
+    .testthis {
+        font-family: Questrial;
+        display: flex;
+        flex: 3;
+        flex-wrap: wrap;
+        flex-direction: row-reverse;
+    }
+
+    .cc {
+        width: 50%;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .descriptiondiv {
+        width: 50%;
+        padding: 0 2%;
+    }
+}
