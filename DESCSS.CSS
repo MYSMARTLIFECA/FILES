@@ -63,9 +63,9 @@
 
   .flex-item p {
     font-size: 100%;
-    TEXT-ALIGN: LEFT;
-    margin-top: 4%;
+    margin-top: 5%;
 }
+
 @media (min-width: 768px) {
     .product-form {
 
