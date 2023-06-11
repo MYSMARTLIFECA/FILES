@@ -178,11 +178,6 @@
         grid-template-columns: repeat(2, 1fr);
       }
     }
-    @media (max-width: 1025px) {
-      .reviews-list {
-        grid-template-columns: repeat(3, 1fr);
-      }
-    }
     @media (min-width: 768px) {
       .reviews-list {
         grid-template-columns: repeat(6, 1fr);
