@@ -183,4 +183,8 @@
         grid-template-columns: repeat(6, 1fr);
       }
     }
-
+    @media only screen and (max-width: 767px) {
+      .reviews-list {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
