@@ -62,7 +62,8 @@
 }
 
   .flex-item p {
-    font-size: 75%;
+    font-size: 100%;
+    TEXT-ALIGN: LEFT;
     margin-top: 4%;
 }
 @media (min-width: 768px) {
