@@ -9,12 +9,12 @@
     .cc {
         width: 50%;
         box-sizing: border-box;
-        padding: 0 2%;
+        padding: 2 2%;
     }
 
     .descriptiondiv {
         width: 50%;
-        padding: 0 2%;
+        padding: 2 2%;
     }
 }
 
