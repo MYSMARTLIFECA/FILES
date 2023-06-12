@@ -32,7 +32,7 @@ divElement.className = 'ratingP';
 
 const spanElement = document.createElement('span');
 spanElement.style.color = 'black';
-spanElement.textContent = '4.8 ';
+spanElement.textContent = '4.9 ';
 
 const starElements = [];
 for (let i = 0; i < 5; i++) {
