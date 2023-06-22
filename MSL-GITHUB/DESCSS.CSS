@@ -1,0 +1,77 @@
+@media (min-width: 768px) {
+    .testthis {
+        font-family: Questrial;
+        display: flex;
+        flex: 3;
+        flex-wrap: wrap;
+    }
+
+    .cc {
+        width: 50%;
+        box-sizing: border-box;
+        padding: 2 2%;
+    }
+
+    .descriptiondiv {
+        width: 50%;
+        padding: 2 2%;
+    }
+}
+
+
+.sizes-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+    font-family: 'Questrial';
+}
+.sizes-table th,
+.sizes-table td {
+  padding: 8px;
+  text-align: left;
+  
+  border-bottom: 1px solid #ddd;
+}
+
+.sizes-table th {
+  font-weight: bold;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .flex-item {
+    flex-basis: calc(33.33% - 15px);
+    margin-bottom: 20px;
+    font-family: "Questrial", sans-serif;
+    text-align: center;
+  }
+
+  .flex-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  .flex-item h1 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+  .flex-item p {
+    font-size: 100%;
+    margin-top: 5%;
+}
+
+@media (min-width: 768px) {
+    .product-form {
+
+        margin: 0 20%;
+    }
+}
+
