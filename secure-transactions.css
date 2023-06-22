@@ -1,0 +1,58 @@
+
+.secure-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    cursor: pointer;
+  }
+  
+  .secure-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .secure-text {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Questrial', sans-serif;
+  }
+  
+  .secure-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+  }
+  
+  .secure-popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    max-width: 500px;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+  }
+  
+  .secure-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .secure-popup-content {
+      width: 90%;
+    }
+  }
+  
