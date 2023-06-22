@@ -1,12 +1,11 @@
 
 .secure-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 50px;
-    cursor: pointer;
-  }
-  
+  display: flex;
+  justify-content: left;
+  margin-top: 2%;
+  cursor: pointer;
+}
+
   .secure-icon {
     width: 20px;
     height: 20px;
