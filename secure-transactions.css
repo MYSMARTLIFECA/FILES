@@ -8,16 +8,17 @@
   }
   
   .secure-icon {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     margin-right: 10px;
   }
   
   .secure-text {
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
     font-family: 'Questrial', sans-serif;
-  }
+}
+
   
   .secure-popup {
     position: fixed;
