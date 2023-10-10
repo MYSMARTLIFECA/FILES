@@ -1,26 +1,26 @@
 const reviews = [
   {
     rating: 5,
-    purchaseInfo: "EARPODS PRO",
+    purchaseInfo: "Back And Neck Massager With Heat",
     reviewContent: "Good quality I loved it",
     customerInfo: "Shilon T. - Reviewed on Sep 3, 2023",
   },
   {
     rating: 5,
-    purchaseInfo: "EARPODS PRO",
+    purchaseInfo: "Back And Neck Massager With Heat",
     reviewContent: "Omg this helps so much with my back and I am currently pregnant so ladies let me just tell u buy it it’s worth the money 😁",
     customerInfo: "Monica H. - Reviewed on Sep 10, 2023",
     image: "https://i.postimg.cc/mgKnM9vB/dc2c0d79-3015-4ef4-85a7-93afbafcc634.webp"
   },
   {
     rating: 5,
-    purchaseInfo: "EARPODS PRO",
+    purchaseInfo: "Back And Neck Massager With Heat",
     reviewContent: "It's great for back and neck massages. I'm glad I purchased it.",
     customerInfo: "Sarah T. - Reviewed on Sep 25, 2023",
   },
   {
     rating: 5,
-    purchaseInfo: "EARPODS PRO",
+    purchaseInfo: "Back And Neck Massager With Heat",
     reviewContent: "Thank you so much!!!",
     customerInfo: "Alyca F. - Reviewed on Oct 2, 2023",
     image: "https://i.postimg.cc/fbjvL0ZH/3c782ad0-d559-428e-bf9d-5bbb77a69ceb.webp"
