@@ -13,8 +13,10 @@
     }
 
     .descriptiondiv {
-        width: 50%;
-        padding: 2 2%;
+      width: 50%;
+      background-color: #cbbeb5a8;
+      border-radius: 50px;
+      padding: 2% 2%;
     }
 }
 
