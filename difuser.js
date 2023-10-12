@@ -2,28 +2,31 @@ const reviews = [
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "neck-massage.js",
-    customerInfo: "Shilon T. - Reviewed on Sep 3, 2023",
+    reviewContent: "I'm someone who loves candles, so I decided to try out this fire diffuser. It's been a delightful addition to my home. The flames are pretty convincing, and the essential oils add a lovely touch to the atmosphere. It's easy to maintain, and I'm happy with my purchase.",
+    customerInfo: "Paca T. - Reviewed on Sep 3, 2023",
+    image: "https://i.postimg.cc/ZKsvW5dF/bfb390cb-20c0-4329-a7f9-6caca815082c.webp"
   },
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "Omg this helps so much with my back and I am currently pregnant so ladies let me just tell u buy it it’s worth the money 😁",
-    customerInfo: "Monica H. - Reviewed on Sep 10, 2023",
-    image: "https://i.postimg.cc/mgKnM9vB/dc2c0d79-3015-4ef4-85a7-93afbafcc634.webp"
+    reviewContent: "I bought the fire diffuser on a whim, and it's turned out to be a great choice. The flames aren't exactly like a real fire, but they create a cozy ambiance. The essential oils are a nice bonus, and I find myself using it more often than I thought. It's a unique way to unwind after a long day.",
+    customerInfo: "Marta H. - Reviewed on Sep 10, 2023",
+    image: "https://i.postimg.cc/tTDC8Bdt/ecf15e2d-04e4-4ebf-a180-dc8fc7f71ff9.webp"
   },
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "It's great for back and neck massages. I'm glad I purchased it.",
-    customerInfo: "Sarah T. - Reviewed on Sep 25, 2023",
+    reviewContent: "I've been using this fire diffuser for a few weeks now, and it's a nice addition to my home. The flames aren't exactly like a real fire, but they're calming to watch. The essential oils are soothing, and I've been enjoying the overall experience. It's a unique and worthwhile investment for anyone looking to add some relaxation to their space.",
+    customerInfo: "Joe T. - Reviewed on Sep 25, 2023",
+    image: "https://i.postimg.cc/3NsMqGqF/bf361a90-dd4b-4ec3-a4bd-df8482a25b04.webp"
   },
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "Thank you so much!!!",
-    customerInfo: "Alyca F. - Reviewed on Oct 2, 2023",
-    image: "https://i.postimg.cc/fbjvL0ZH/3c782ad0-d559-428e-bf9d-5bbb77a69ceb.webp"
+    reviewContent: "I was initially hesitant about buying a fire diffuser, but this one has truly surprised me. The flames are realistic, and the essential oils provide a subtle and pleasant aroma. It's become a part of my daily relaxation routine, and I can't imagine my evenings without it.",
+    customerInfo: "Sara F. - Reviewed on Oct 2, 2023",
+    image: "https://i.postimg.cc/ZRn1KjtL/b6833264-465a-4f7e-bfe5-6342d0abfe3d.webp"
+  
   },
 
 ];
