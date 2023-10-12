@@ -14,6 +14,8 @@
     width: 28%;
     position: relative;
     cursor: help;
+    background-color: #ee8943;
+    padding: 3% 3%;
     }
     
     .delivery-stage h2 {
