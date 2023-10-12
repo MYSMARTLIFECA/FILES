@@ -3,7 +3,13 @@
       flex-wrap: wrap;
       justify-content: center;
     }
-    
+    /* For mobile devices */
+@media (max-width: 768px) {
+  .delivery-stage {
+
+    padding: 3% 3%;  
+  }
+}
     .delivery-stage {
     flex: 1;
     text-align: center;
@@ -17,6 +23,7 @@
     background-color: #ee8943;
     padding: 1% 1%;  
     }
+
     
     .delivery-stage h2 {
       margin-top: 0;
