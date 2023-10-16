@@ -16,9 +16,9 @@
       margin-bottom: 13px;
       border-radius: 25px;
       background-color: #79777626; 
-      box-shadow: 5px 0 20px rgb(0 0 0 / 32%);
+      box-shadow: 5px 0 20px rgb(0 0 0 / 17%);
       padding: 6% 6%;
-    }
+    } 
 
     /* Rating stars */
     .rating {
