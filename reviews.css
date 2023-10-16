@@ -15,10 +15,10 @@
     .review {
       margin-bottom: 13px;
       border-radius: 25px;
-      background-color: #79777626; 
-      box-shadow: 5px 0 20px rgb(0 0 0 / 17%);
+      background-color: #ffffff26;
+      box-shadow: 5px 0px 20px rgba(0, 0, 0, 0.3);
       padding: 6% 6%;
-    } 
+  }
 
     /* Rating stars */
     .rating {
