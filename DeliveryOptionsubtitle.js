@@ -24,7 +24,8 @@ function generateDeliveryTracker(deliveryType, preparationDays, shippingDays, de
   var orderShipsElement = document.getElementById("orderShipsDate");
   var deliveryDateElement = document.getElementById("deliveryDate");
 
-
+  document.getElementById(deliveryType).innerHTML = deliveryTrackerHTML;
+  currentElement.textContent = formatDate(currentDate); 
 
   var orderShipsDate = new Date();
   orderShipsDate.setDate(currentDate.getDate() + preparationDays);
