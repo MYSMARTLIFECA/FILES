@@ -1,51 +1,51 @@
-// for normal delivery
-
-function generateDeliveryTrackerExtended() {
+function generateDeliveryTracker(deliveryType, preparationDays, shippingDays, deliveryDays) {
   var deliveryTrackerHTML = `
     <div class="delivery-container">
       <div class="delivery-stage">
         <i class="fas fa-shopping-cart"></i>
-        <h2 data-description="After you place your order, it will take 1-3 business days to prepare it for shipment.">Order placed</h2>
-        <p id="currentDateExtended"></p>
+        <h2 data-description="After you place your order, it will take ${preparationDays} business days to prepare it for shipment.">Order placed</h2>
+        <p id="currentDate"></p>
       </div>
       <div class="delivery-stage">
         <i class="fas fa-truck"></i>
         <h2 data-description="MSL puts your order in the mail.">Order ships</h2>
-        <p id="datePlusThreeToFive"></p>
+        <p id="orderShipsDate"></p>
       </div>
-      <div class "delivery-stage">
+      <div class="delivery-stage">
         <i class="fas fa-check-circle"></i>
         <h2 data-description="Estimated to arrive at your doorstep!">Delivered!</h2>
-        <p id="datePlusEightToEleven"></p>
+        <p id="deliveryDate"></p>
       </div>
     </div>
   `;
 
-  document.getElementById("delivery-tracker-extended").innerHTML = deliveryTrackerHTML;
-
   var currentDate = new Date();
+  var currentElement = document.getElementById("currentDate");
+  var orderShipsElement = document.getElementById("orderShipsDate");
+  var deliveryDateElement = document.getElementById("deliveryDate");
 
-  document.getElementById("currentDateExtended").textContent = formatDate(currentDate);
+  document.getElementById(deliveryType).innerHTML = deliveryTrackerHTML;
+  currentElement.textContent = formatDate(currentDate);
 
-  var datePlusThreeToFive = new Date();
-  datePlusThreeToFive.setDate(currentDate.getDate() + 1);
-  var datePlusFive = new Date();
-  datePlusFive.setDate(currentDate.getDate() + 4);
-  document.getElementById("datePlusThreeToFive").textContent = formatDate(datePlusThreeToFive) + " - " + formatDate(datePlusFive);
+  var orderShipsDate = new Date();
+  orderShipsDate.setDate(currentDate.getDate() + preparationDays);
+  orderShipsElement.textContent = formatDate(orderShipsDate);
 
-  var datePlusEightToEleven = new Date();
-  datePlusEightToEleven.setDate(currentDate.getDate() + 6);
-  var datePlusEleven = new Date();
-  datePlusEleven.setDate(currentDate.getDate() + 12);
-  document.getElementById("datePlusEightToEleven").textContent = formatDate(datePlusEightToEleven) + " - " + formatDate(datePlusEleven);
+  var deliveryTime = formatDate(orderShipsDate);
+  var deliveryDate = new Date(orderShipsDate);
+  deliveryDate.setDate(orderShipsDate.getDate() + shippingDays);
+  deliveryTime += " - " + formatDate(deliveryDate);
+  deliveryDateElement.textContent = deliveryTime;
 
   function formatDate(date) {
-      var month = date.toLocaleString('default', { month: 'short' });
-      var day = date.getDate();
-      return month + " " + day;
+    var month = date.toLocaleString("default", { month: "short" });
+    var day = date.getDate();
+    return month + " " + day;
   }
 }
 
-document.addEventListener('DOMContentLoaded', function () {
-  generateDeliveryTrackerExtended();
+document.addEventListener("DOMContentLoaded", function () {
+  generateDeliveryTracker("delivery-tracker", 0, 0, 0); // For same-day delivery
+  generateDeliveryTracker("delivery-tracker-extended", 1, 3, 8); // For normal delivery
+  generateDeliveryTracker("otheritems", 1, 4, 18); // For other items
 });
