@@ -130,27 +130,35 @@ const reviews = [
     }
   }
   
-  // Function to render pagination buttons
-  function renderPagination(pageNumber) {
-    const pagination = document.getElementById("pagination");
-    pagination.innerHTML = "";
-  
-    for (let i = 1; i <= totalPages; i++) {
-      const div = document.createElement("div");
-      div.textContent = "" + i; // Update the button name here
-      div.addEventListener("click", () => {
-        renderReviews(i);
-        renderPagination(i);
-      });
-  
-      if (i === pageNumber) {
-        div.classList.add("active");
-      }
-  
-      div.classList.add("div-reviews"); // Add the class "div-reviews"
-      pagination.appendChild(div);
+// Function to render pagination buttons
+function renderPagination(pageNumber) {
+  const pagination = document.getElementById("pagination");
+  pagination.innerHTML = "";
+
+  for (let i = 1; i <= totalPages; i++) {
+    const div = document.createElement("div");
+    div.textContent = "" + i; // Update the button name here
+
+    if (i === pageNumber) {
+      div.classList.add("active");
     }
+
+    div.classList.add("div-reviews"); // Add the class "div-reviews"
+
+    // Add a data attribute to store the page number
+    div.setAttribute("data-page", i);
+
+    div.addEventListener("click", (event) => {
+      const clickedPage = event.target.getAttribute("data-page");
+      if (clickedPage !== null) {
+        renderReviews(parseInt(clickedPage, 10));
+        renderPagination(parseInt(clickedPage, 10));
+      }
+    });
+
+    pagination.appendChild(div);
   }
+} 
   
   // Initial rendering of reviews (page 1)
   renderReviews(1);
