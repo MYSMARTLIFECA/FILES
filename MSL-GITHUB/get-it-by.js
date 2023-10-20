@@ -19,7 +19,7 @@
     
     // Loop through each element and set the inner text
     for (var i = 0; i < timeDisplays.length; i++) {
-      timeDisplays[i].innerText = "Estimated Delivery:"+ "\n" + result1 + " - " + result2;
+      timeDisplays[i].innerText = " Get It By:"+ "\n" + result1 + " - " + result2; 
     }
   }
   
