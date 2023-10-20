@@ -131,7 +131,7 @@ const reviews = [
   }
   
 // Function to render pagination buttons
-function renderPagination(pageNumber) {
+function renderPagination(totalPages, currentPage) {
   const pagination = document.getElementById("pagination");
   pagination.innerHTML = "";
 
@@ -139,21 +139,17 @@ function renderPagination(pageNumber) {
     const div = document.createElement("div");
     div.textContent = "" + i; // Update the button name here
 
-    if (i === pageNumber) {
+    if (i === currentPage) {
       div.classList.add("active");
     }
 
     div.classList.add("div-reviews"); // Add the class "div-reviews"
 
-    // Add a data attribute to store the page number
-    div.setAttribute("data-page", i);
-
-    div.addEventListener("click", (event) => {
-      const clickedPage = event.target.getAttribute("data-page");
-      if (clickedPage !== null) {
-        renderReviews(parseInt(clickedPage, 10));
-        renderPagination(parseInt(clickedPage, 10));
-      }
+    div.addEventListener("click", (page) => {
+      return function () {
+        renderReviews(page);
+        renderPagination(totalPages, page);
+      }(i);
     });
 
     pagination.appendChild(div);
