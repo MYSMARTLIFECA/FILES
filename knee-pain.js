@@ -26,7 +26,18 @@ const reviews = [
       reviewContent: "I thought I had ordered 2 but no way to use it for knee dolotes and put it on my shoulder that I have hurt but it was excellent purchase",
       customerInfo: "Gabri F. - Reviewed on Oct 5, 2023",
     },
-  
+    {
+      rating: 5,
+      purchaseInfo: "Infrared Heating Therapy Kneepad, Relieve Arthritis Knee Pain",
+      reviewContent: "Easy to wear and keeps knees and other body parts warm",
+      customerInfo: "Salma F. - Reviewed on Nov 12, 2023",
+    },
+    {
+      rating: 4,
+      purchaseInfo: "Infrared Heating Therapy Kneepad, Relieve Arthritis Knee Pain",
+      reviewContent: "This was great until I ruined it. I always forgot it was plugged in, so I ended up pulling out the cord attached to to the knee warmer.. I only enjoyed it for 2weeks",
+      customerInfo: "Salma F. - Reviewed on Nov 20, 2023",
+    },
   ];
   
   
