@@ -131,27 +131,23 @@ const reviews = [
   }
   
 // Function to render pagination buttons
-function renderPagination(totalPages) {
+function renderPagination(pageNumber) {
   const pagination = document.getElementById("pagination");
   pagination.innerHTML = "";
 
   for (let i = 1; i <= totalPages; i++) {
     const div = document.createElement("div");
     div.textContent = "" + i; // Update the button name here
+    div.addEventListener("click", () => {
+      renderReviews(i);
+      renderPagination(i);
+    });
 
-    // Check if this is the first page, and add the "active" class if so
-    if (i === 1) {
+    if (i === pageNumber) {
       div.classList.add("active");
-      renderReviews(1); // Show the first review
     }
 
     div.classList.add("div-reviews"); // Add the class "div-reviews"
-
-    div.addEventListener("click", () => {
-      // When any pagination button is clicked, always show the first review (assuming first page is the first review)
-      renderReviews(1);
-    });
-
     pagination.appendChild(div);
   }
 }
