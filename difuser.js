@@ -1,7 +1,7 @@
 const reviews = [
   {
     rating: 5,
-    purchaseInfo: "Simulation Flame Ultrasonic Humidifier, Aromatherapy Diffuser, 9 Colors Lighting Diffuser,",
+    purchaseInfo: "Simulation Flame Ultrasonic Humidifier, Aromatherapy Diffuser, 9 Colors Lighting Diffuser",
     reviewContent: "I'm someone who loves candles, so I decided to try out this fire diffuser. It's been a delightful addition to my home. The flames are pretty convincing, and the essential oils add a lovely touch to the atmosphere. It's easy to maintain, and I'm happy with my purchase.",
     customerInfo: "Paca T. - Reviewed on Sep 3, 2023",
     image: "https://i.postimg.cc/ZKsvW5dF/bfb390cb-20c0-4329-a7f9-6caca815082c.webp"
@@ -28,7 +28,20 @@ const reviews = [
     image: "https://i.postimg.cc/ZRn1KjtL/b6833264-465a-4f7e-bfe5-6342d0abfe3d.webp"
   
   },
-
+  {
+    rating: 3,
+    purchaseInfo: "Simulation Flame Ultrasonic Humidifier, Aromatherapy Diffuser, 9 Colors Lighting Diffuser",
+    reviewContent: "Decent buy. The flame effect is okay, but the mist output could be stronger. It's best for smaller spaces and doesn't run all night without a refill.",
+    customerInfo: "Chris - Reviewed on Oct 8, 2023",
+}, 
+{
+  rating: 4,
+  purchaseInfo: "Simulation Flame Ultrasonic Humidifier, Aromatherapy Diffuser, 9 Colors Lighting Diffuser",
+  reviewContent: "Great ambiance! The flame effect is cozy, and the lighting options are a nice touch. A bit small on water capacity, but it's perfect for my bedroom.",
+  customerInfo: "Sarah - Reviewed on Oct 9, 2023",
+}
+  
+ 
 ];
 
 
