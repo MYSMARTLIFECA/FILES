@@ -1,9 +1,6 @@
 @media (min-width: 768px) {
     .testthis {
         font-family: Questrial;
-        display: flex;
-        flex: 3;
-        flex-wrap: wrap;
     }
 
     .cc {
