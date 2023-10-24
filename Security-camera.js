@@ -1,10 +1,10 @@
 const reviews = [ 
     {
       rating: 5,
-      purchaseInfo: 'Wireless Outdoor Security Camera, AI Human Detection'
-      reviewContent: "good picture quality working good so far 👌", 
+      purchaseInfo: 'Wireless Outdoor Security Camera, AI Human Detection',
+      reviewContent: "good picture quality working good so far 👌" ,
       customerInfo: "Saylan T. - Reviewed on Sep 29, 2023",
-    }, 
+    },
     { 
       rating: 5,
       purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection", 
