@@ -1,33 +1,30 @@
+const productName = "Seemagic Nail Trimmer: Professional Nail Care Made Easy";
+
 const reviews = [
   {
       rating: 5,
-      productName: "Seemagic Nail Trimmer: Professional Nail Care Made Easy",
-      reviewContent: "I can't express how impressed I am with the Seemagic Nail Trimmer. It's incredibly easy to use and delivers salon-quality results at home. I've saved so much money and time since I started using it. Highly recommended!",
-      customerInfo: "Emily - Reviewed on Oct 25, 2023",
+      reviewContent: "The Seemagic Nail Trimmer is truly outstanding. I've been using it for a while, and it's made at-home nail care a breeze. It's user-friendly, and the results are like a professional manicure. It's a fantastic addition to my grooming routine.",
+      customerInfo: "Linda - Reviewed on Oct 25, 2023",
   },
   {
       rating: 5,
-      productName: "Seemagic Nail Trimmer: Professional Nail Care Made Easy",
-      reviewContent: "This nail trimmer is a game-changer. It's safe, precise, and makes nail care a breeze. The ergonomic design is comfortable to hold, and the results speak for themselves. I love it!",
-      customerInfo: "Michael - Reviewed on Oct 22, 2023",
+      reviewContent: "I am extremely happy with this nail trimmer. It's precise, safe, and efficient. The ergonomic design ensures a comfortable grip, making it easy to handle. The Seemagic Nail Trimmer has become an essential tool for maintaining well-groomed nails at home.",
+      customerInfo: "James - Reviewed on Oct 22, 2023",
   },
   {
       rating: 5,
-      productName: "Seemagic Nail Trimmer: Professional Nail Care Made Easy",
-      reviewContent: "I was skeptical at first, but this trimmer exceeded my expectations. It's quick, efficient, and the noise level is not bothersome at all. I've ditched my old clippers for good. Thank you, Seemagic!",
-      customerInfo: "Sophia - Reviewed on Oct 20, 2023",
+      reviewContent: "This trimmer exceeded my expectations. I was initially skeptical, but it's quick, effective, and not noisy at all. It's replaced my old clippers, and I couldn't be happier with the results. It's a must-have for anyone who cares about nail care.",
+      customerInfo: "Sarah - Reviewed on Oct 20, 2023",
   },
   {
       rating: 5,
-      productName: "Seemagic Nail Trimmer: Professional Nail Care Made Easy",
-      reviewContent: "I can't believe how easy nail care has become with this trimmer. It's like having a professional manicure at home. The battery life is decent, and I appreciate the convenience it offers. Worth every penny!",
-      customerInfo: "David - Reviewed on Oct 18, 2023",
+      reviewContent: "I can't express how impressed I am with it. It's incredibly easy to use and delivers salon-quality results at home. I've saved so much money and time since I started using it. Highly recommended!",
+      customerInfo: "Alex - Reviewed on Oct 18, 2023",
   },
   {
       rating: 5,
-      productName: "Seemagic Nail Trimmer: Professional Nail Care Made Easy",
-      reviewContent: "The Seemagic Nail Trimmer has made my life so much easier. It's simple to use, and I no longer struggle with traditional clippers. It's a 5-star product that I recommend to everyone!",
-      customerInfo: "Olivia - Reviewed on Oct 15, 2023",
+      reviewContent: "I've tried numerous nail care products, but it stands out. It's simple to use, and I no longer struggle with traditional clippers. The quality and convenience it offers are worth every penny. A definite 5-star product!",
+      customerInfo: "Megan - Reviewed on Oct 15, 2023",
   }
 ]; 
 
