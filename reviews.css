@@ -96,9 +96,6 @@
       }
     }
 
-    .checked {
-      animation: starcolor 40s infinite ease-in-out;
-    }
     .div-reviews:hover {
       color: red; /* Change text color on hover */
       border-bottom: 1px solid red; /* Add border bottom on hover */
