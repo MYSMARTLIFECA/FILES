@@ -1,11 +1,12 @@
-const reviews = [
+const newpurchaseInfo = 'Wireless Outdoor Security Camera, AI Human Detection';
+const reviews = [ 
     {
       rating: 5,
-      purchaseInfo: "{{ product.name | escape }}", 
+      purchaseInfo: 'newpurchaseInfo'
       reviewContent: "good picture quality working good so far 👌", 
       customerInfo: "Saylan T. - Reviewed on Sep 29, 2023",
     }, 
-    {
+    { 
       rating: 5,
       purchaseInfo: "{{ product.name | escape }}", 
       reviewContent: "the product arrived in a timely manner with no damage. Easy to hook up and share. Very good picture and motion detection. I would recommend this product and the price was right. Thank you.",
