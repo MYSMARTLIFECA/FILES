@@ -1,26 +1,42 @@
 const reviews = [
-    {
-      rating: 5,
-      purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
-      reviewContent: "White colour complements my devices. Great design that holds the watch face towards the user. Non-slip pad keeps the phone upright while charging, even with no case. Great product.", 
-      customerInfo: "Victor T. - Reviewed on Oct 17, 2023",
-      image: "https://i.postimg.cc/sXSjc154/61-Gt2wva-UHL.jpg"
-    },
-    {
-      rating: 5,
-      purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
-      reviewContent: "Great texture, functions well so far.",
-      customerInfo: "Monia H. - Reviewed on Sep 20, 2023",
-    },
-    {
-      rating: 5,
-      purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
-      reviewContent: "This folds down to take up little space. Nice to be able to have a place for the watch to charge. Not as fast charging phone directly attached to cable, but it works well even through my case.      ",
-      customerInfo: "Mani T. - Reviewed on Sep 22, 2023",
-  
-    },
-    
-  ];
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "I love the white color that perfectly complements my devices. The design is great as it holds the watch face towards the user. The non-slip pad keeps my phone upright while charging, even without a case. This is a great product that I highly recommend.",
+    customerInfo: "Victor T. - Reviewed on Oct 17, 2023",
+    image: "https://i.postimg.cc/sXSjc154/61-Gt2wva-UHL.jpg"
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "I'm really impressed with the great texture of this charger stand. It functions well and has been reliable so far.",
+    customerInfo: "Monia H. - Reviewed on Sep 20, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "I appreciate that this charger stand folds down to take up very little space. It's convenient to have a dedicated spot for my watch to charge. While it may not be as fast as charging the phone directly attached to a cable, it works well, even through my phone case.",
+    customerInfo: "Mani T. - Reviewed on Sep 22, 2023",
+  },
+  {
+    rating: 4,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "The charger stand is good, but it could be a bit faster when charging the phone directly. It's convenient for my watch, and the design is nice.",
+    customerInfo: "Lisa K. - Reviewed on Oct 10, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "This charger stand is a must-have! It makes charging my devices so much more convenient. The design is sleek, and it fits well with my home setup.",
+    customerInfo: "Daniel R. - Reviewed on Oct 5, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
+    reviewContent: "I couldn't be happier with this charger stand. It's compact and functional. The non-slip pad keeps my phone steady while charging. I use it every day without any issues.",
+    customerInfo: "Emily L. - Reviewed on Sep 15, 2023",
+  }
+]; 
     
   
   
