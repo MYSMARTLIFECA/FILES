@@ -4,14 +4,14 @@ const reviews = [
     purchaseInfo: "Infrared Heating Therapy Kneepad, Relieve Arthritis Knee Pain",
     reviewContent: "I put this on my knee as soon as it arrived. The massage setting is great, and I can't wait to try the heat setting. It looks really well made and fits around my swollen knee. I'd definitely recommend it.",
     customerInfo: "Vilon T. - Reviewed on Oct 3, 2023",
-    image: "https://i.postimg.cc/85tPzktw/1693146129df1aaee8289d962934d47043a11a0b8c-thumbnail-x460.jpg"
+    image: "https://i.postimg.cc/pV8zkP72/1693146127b7276d5f31a3d3cd260e83aee7e7f6bb-thumbnail-x460.webp" 
   },
   {
     rating: 5,
     purchaseInfo: "Infrared Heating Therapy Kneepad, Relieve Arthritis Knee Pain",
     reviewContent: "This kneepad seems to retain and mildly supplement body heat, providing comfort. It's made of insulating material that works well. While there's no way to fine-tune the temperature, it's still a great purchase.",
     customerInfo: "Moni H. - Reviewed on Sep 10, 2023",
-    image: "https://i.postimg.cc/YqJ29szc/1693146127b7276d5f31a3d3cd260e83aee7e7f6bb-thumbnail-x460.jpg"
+    image: "https://i.postimg.cc/xT5kF8PS/1693146129df1aaee8289d962934d47043a11a0b8c-thumbnail-x460.webp" 
   },
   {
     rating: 5,

@@ -4,7 +4,7 @@ const reviews = [
     purchaseInfo: "Wireless Charger Stand: Fast Qi Charging, 3 in 1",
     reviewContent: "I love the white color that perfectly complements my devices. The design is great as it holds the watch face towards the user. The non-slip pad keeps my phone upright while charging, even without a case. This is a great product that I highly recommend.",
     customerInfo: "Victor T. - Reviewed on Oct 17, 2023",
-    image: "https://i.postimg.cc/sXSjc154/61-Gt2wva-UHL.jpg"
+    image: "https://i.postimg.cc/J0RgTp1m/61-Gt2wva-UHL.webp" 
   },
   {
     rating: 5,
