@@ -1,38 +1,37 @@
-
-    const reviews = [
-        {
-          rating: 5,
-          purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
-          reviewContent: "Sleek and stylish, I'm loving it!",
-          customerInfo: "Jake M. - Sep 7, 2023",
-          image: "https://i.postimg.cc/6qfRY3yy/71-Bx1s-F4r-OL-SY256.webp"
-        },
-        {
-          rating: 4,
-          purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
-          reviewContent: "Not an Apple, but it's cool!",
-          customerInfo: "Samantha R. - Sep 18, 2023",
-          image: "https://i.postimg.cc/HkVm1F3Z/71yl8k-Utiz-L-SL1600.webp"
-        },
-        {
-          rating: 5,
-          purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
-          reviewContent: "Looks high-end, feels great.",
-          customerInfo: "Max K. - Oct 4, 2023",
-        },
-        {
-          rating: 4,
-          purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
-          reviewContent: "Slick, iPhone-friendly choice.",
-          customerInfo: "Lindsay P. - Oct 8, 2023",
-        },
-        {
-          rating: 5,
-          purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
-          reviewContent: "Stylish daily companion.",
-          customerInfo: "Chris S. - Oct 16, 2023",
-        }
-    ]; 
+const reviews = [
+    {
+      rating: 5,
+      purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
+      reviewContent: "This watch is awesome! It's super sleek and stylish, and I'm absolutely loving it. It's like the coolest thing on my wrist right now. I highly recommend it!",
+      customerInfo: "Jake M. - Sep 7, 2023",
+      image: "https://i.postimg.cc/6qfRY3yy/71-Bx1s-F4r-OL-SY256.webp"
+    },
+    {
+      rating: 4,
+      purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
+      reviewContent: "Okay, so it's not an Apple watch, but it's still pretty cool. It gives me a fancy feeling, and I get compliments on it. I'm happy with my purchase, and you might be too!",
+      customerInfo: "Samantha R. - Sep 18, 2023",
+      image: "https://i.postimg.cc/HkVm1F3Z/71yl8k-Utiz-L-SL1600.webp"
+    },
+    {
+      rating: 5,
+      purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
+      reviewContent: "This watch makes me feel high-end. It's got that premium vibe, and I'm loving every moment with it. It's a total joy to wear. You should give it a try!",
+      customerInfo: "Max K. - Oct 4, 2023",
+    },
+    {
+      rating: 5,
+      purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
+      reviewContent: "It's a slick choice that goes well with my iPhone. It's like my tech-savvy sidekick. If you're into style and functionality, this might just be your thing!",
+      customerInfo: "Lindsay P. - Oct 8, 2023",
+    },
+    {
+      rating: 5,
+      purchaseInfo: "Elevate Your Wrist: IWatch Series 8 (45mm)",
+      reviewContent: "Wearing this watch is like wearing a style statement. It gives me the trendsetter vibe, and I love that. If you want to add some swag to your daily routine, go for it!",
+      customerInfo: "Chris S. - Oct 16, 2023",
+    }
+]; 
 
 
   // Number of reviews to show per page
