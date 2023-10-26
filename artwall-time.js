@@ -5,10 +5,10 @@ function calculateTime() {
     var futureDate2 = new Date(); // Create a future date object for the second estimate
     
     // Add 4 days to the future date 1
-    futureDate1.setDate(futureDate1.getDate() + 5);
+    futureDate1.setDate(futureDate1.getDate() + 6);
     
     // Add 11 days to the future date 2
-    futureDate2.setDate(futureDate2.getDate() + 13);
+    futureDate2.setDate(futureDate2.getDate() + 14);
     
     // Format the result as "MMM DD" string
     var result1 = futureDate1.toLocaleString('default', { month: 'short', day: 'numeric' });
