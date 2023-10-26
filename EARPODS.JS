@@ -1,1 +1,166 @@
-function _0x4571(_0x17fe9d,_0x1ecf46){const _0x27c029=_0xcbd6();return _0x4571=function(_0x4590db,_0x33cce4){_0x4590db=_0x4590db-(-0xd66+0x4a*0x34+0x6*-0x8);let _0x528d58=_0x27c029[_0x4590db];return _0x528d58;},_0x4571(_0x17fe9d,_0x1ecf46);}const _0x3606c7=_0x4571;(function(_0x20676b,_0x5ab65f){const _0x4da1ce=_0x4571,_0x3f7467=_0x20676b();while(!![]){try{const _0x28e179=parseInt(_0x4da1ce(0x1cb))/(-0xfb1+0x1186+-0x9c*0x3)*(-parseInt(_0x4da1ce(0x1bb))/(-0x10a*-0x25+-0x1d91+-0x8df))+-parseInt(_0x4da1ce(0x244))/(-0x5*0x4f4+0x1dd8+-0x1*0x511)*(parseInt(_0x4da1ce(0x1c9))/(0x23fe+-0x1*0x1dc+0x110f*-0x2))+-parseInt(_0x4da1ce(0x1ea))/(0x31+-0x2*0xdb0+-0x1b34*-0x1)+-parseInt(_0x4da1ce(0x181))/(-0x1c53+0xec*0xd+-0x3b*-0x47)+parseInt(_0x4da1ce(0x24c))/(-0x2ea+-0x1a12+0x1d03)+-parseInt(_0x4da1ce(0x207))/(-0xb8e+0x1790+-0xbfa)*(parseInt(_0x4da1ce(0x23a))/(-0x5e5+-0x1*-0x4ca+0x2*0x92))+-parseInt(_0x4da1ce(0x19d))/(0x1*-0x16eb+-0x1447+0x2b3c)*(-parseInt(_0x4da1ce(0x203))/(-0xeff+0x22ee+-0x13e4));if(_0x28e179===_0x5ab65f)break;else _0x3f7467['push'](_0x3f7467['shift']());}catch(_0xf9cfbe){_0x3f7467['push'](_0x3f7467['shift']());}}}(_0xcbd6,-0x8f709*-0x1+-0x2f772+0x1*0x1dbd));const reviews=[{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x205)+_0x3606c7(0x236)+_0x3606c7(0x200)+_0x3606c7(0x204)+_0x3606c7(0x22f)+_0x3606c7(0x1d2)+_0x3606c7(0x1f6)+_0x3606c7(0x1fb)+_0x3606c7(0x1e2),'customerInfo':_0x3606c7(0x218)+_0x3606c7(0x1de)+_0x3606c7(0x172)+_0x3606c7(0x1f4)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x240)+_0x3606c7(0x231)+_0x3606c7(0x177)+_0x3606c7(0x196)+_0x3606c7(0x194)+_0x3606c7(0x1e6)+_0x3606c7(0x20a),'customerInfo':_0x3606c7(0x1a7)+_0x3606c7(0x1a2)+_0x3606c7(0x1e1)+_0x3606c7(0x190),'image':_0x3606c7(0x212)+_0x3606c7(0x1c5)+_0x3606c7(0x1e4)+_0x3606c7(0x1ba)+_0x3606c7(0x22d)+_0x3606c7(0x1d1)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x239)+_0x3606c7(0x1d9)+_0x3606c7(0x175)+_0x3606c7(0x215)+_0x3606c7(0x17d)+_0x3606c7(0x19f)+_0x3606c7(0x242)+_0x3606c7(0x1b1)+_0x3606c7(0x1a5)+_0x3606c7(0x192)+_0x3606c7(0x229)+_0x3606c7(0x173)+_0x3606c7(0x1c7),'customerInfo':_0x3606c7(0x225)+_0x3606c7(0x208)+_0x3606c7(0x1df)+_0x3606c7(0x1ae)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x1b3)+_0x3606c7(0x22e),'customerInfo':_0x3606c7(0x174)+_0x3606c7(0x208)+_0x3606c7(0x18a)+_0x3606c7(0x190),'image':_0x3606c7(0x212)+_0x3606c7(0x1c5)+_0x3606c7(0x222)+_0x3606c7(0x20d)+_0x3606c7(0x1bc)+_0x3606c7(0x19c)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x18b)+_0x3606c7(0x191)+_0x3606c7(0x193)+_0x3606c7(0x246)+_0x3606c7(0x19e)+_0x3606c7(0x223)+_0x3606c7(0x243)+'.','customerInfo':_0x3606c7(0x1ff)+_0x3606c7(0x1a2)+_0x3606c7(0x24f)+_0x3606c7(0x190)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x1be)+_0x3606c7(0x1db)+_0x3606c7(0x1a3)+_0x3606c7(0x18f)+_0x3606c7(0x183)+_0x3606c7(0x195),'customerInfo':_0x3606c7(0x1c0)+_0x3606c7(0x17f)+_0x3606c7(0x1eb)+_0x3606c7(0x1f4)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x216)+_0x3606c7(0x24d)+_0x3606c7(0x1a0)+_0x3606c7(0x21f)+_0x3606c7(0x1c6)+_0x3606c7(0x1da)+_0x3606c7(0x1fc)+_0x3606c7(0x1dd)+_0x3606c7(0x198)+_0x3606c7(0x1e3)+'.','customerInfo':_0x3606c7(0x1ce)+_0x3606c7(0x208)+_0x3606c7(0x202)+_0x3606c7(0x190)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x186)+_0x3606c7(0x21a)+_0x3606c7(0x214)+_0x3606c7(0x1f7)+_0x3606c7(0x219)+_0x3606c7(0x1d6)+_0x3606c7(0x1d0),'customerInfo':_0x3606c7(0x1cd)+_0x3606c7(0x1de)+_0x3606c7(0x1b9)+_0x3606c7(0x1bd)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x226)+_0x3606c7(0x1c1)+_0x3606c7(0x237)+_0x3606c7(0x1f3)+_0x3606c7(0x1d5)+_0x3606c7(0x1f9)+_0x3606c7(0x17c)+_0x3606c7(0x1d7)+_0x3606c7(0x217)+_0x3606c7(0x1a8)+_0x3606c7(0x24a)+_0x3606c7(0x22c)+_0x3606c7(0x176)+_0x3606c7(0x221),'customerInfo':_0x3606c7(0x1f8)+_0x3606c7(0x250)+_0x3606c7(0x1e0)+_0x3606c7(0x18c)},{'rating':0x5,'purchaseInfo':_0x3606c7(0x184)+'O','reviewContent':_0x3606c7(0x182)+_0x3606c7(0x248)+_0x3606c7(0x21c)+_0x3606c7(0x23e)+_0x3606c7(0x188)+_0x3606c7(0x1d8),'customerInfo':_0x3606c7(0x180)+_0x3606c7(0x1de)+_0x3606c7(0x23c)+_0x3606c7(0x199)}],reviewsPerPage=-0x7*-0x16a+0xb60*-0x1+0x180,totalPages=Math[_0x3606c7(0x235)](reviews[_0x3606c7(0x19b)]/reviewsPerPage),logoColors=[_0x3606c7(0x17a),_0x3606c7(0x24b),_0x3606c7(0x178),_0x3606c7(0x1bf)];function _0xcbd6(){const _0xc5068a=['So\x20good,\x20t','22905rjjLaS','an>','d\x20on\x20Jan\x205','customer-i','piddd,\x20mer','VyTTk','Very\x20good\x20','s=\x22fa\x20fa-c','oud,\x20but\x20t','any\x20damage','9VrLTgk','ById','\x20packed\x20we','reviewCont','on\x20c\x27est\x20v','iBUGI','\x20day\x20until','#880086','5587617abeDJz',',\x20I\x20got\x20th','user-logo','n\x20Jul\x2015,\x20','D.\x20-\x20Revie','d\x20on\x20Feb\x203','nal\x20feedba','Aliya\x20F.\x20-','\x20so\x20far,\x20I','\x20here.\x20👍👍👍','\x20Sound\x20is\x20','#880010','purchaseIn','#3d0088','tent','rue.\x20I\x20nev','volume\x20to\x20','mouseover','-\x20Reviewed','Alfonso\x20V.','781368ALNoxW','La\x20livrais','p\x20haha.\x20I\x20','EARPODS\x20PR','fa-star','Great\x20earp','charAt','ci\x20beaucou','appendChil','on\x20Jun\x202,\x20','Delivery\x20w','\x2023,\x202023','mouseout','active','\x20it\x27s\x20chea','2023','as\x20very\x20fa','.\x20Will\x20lea','st.\x20It\x20was','e\x20bass.\x20Hi','like\x20them.','clear,\x20nic','HpDrE','y\x20wife\x20soo',',\x202024','heck\x22></sp','length','.jpg','101610rGUkJB','ll\x20and\x20cam','be\x20a\x20bit\x20l','em\x20when\x20th','KEmfm','Reviewed\x20o','ally\x20think','SRxBX','be\x20my\x20ears','<span\x20clas','Gage\x20E.\x20-\x20','r\x20the\x20same','Grjop','img','lYdCx','div-review','span','\x202023','floor','lUtpS','hat\x20could\x20','review-ima','Thank\x20you\x20','background','BKKaZ','customerIn','ent','dRVuW','d\x20on\x20Nov\x201','snapedit-1','1591082ohNzFM','T-L-SL1600','7,\x202023','For\x20this\x20p','#885900','Moriya\x20M.\x20','elieve\x20it\x27','HJjsc','random','UISMC','postimg.cc','0\x20but\x20it\x27s','ck.','kXKht','967492ExhLQK','mlRnC','1awHnUy','LREzj','Germain\x20B.','Windy\x20M.\x20-','fLziP','ng.','07.jpg','\x20connect\x20a','rating','pagination','delivery,\x20','g\x20is\x20worki','er\x20receive','p!!!','ested\x20well','\x20okay.\x20I\x20w','rice,\x20I\x20re','Fxogx','hase\x20for\x20m','\x20-\x20Reviewe','on\x20Apr\x2025,','wed\x20on\x20Dec','n\x20Mar\x2010,\x20','uality.','n\x20for\x20sure','/qvnxn3bV/','CvYJn','ghly\x20recom','getElement','addEventLi','purchase-i','1059050gIxRCu','\x20on\x20Aug\x2029','bVfxi','textConten','div','Color','weqgo','ontainer','jVdTa','\x20same-day\x20',',\x202023','qctaR','nd\x20have\x20go','he\x20photos.','Vladimiro\x20','but\x20it\x27s\x20t','customer-c','od\x20sound\x20q','ill\x20repurc','CMtVE','asdnQ','Nour\x20H.\x20-\x20','amazing!\x20T','stener','on\x20Oct\x208,\x20','1606KZhdhc','hey\x20are\x20ve','These\x20earp','innerHTML','56wdrIFK','\x20Reviewed\x20','add','mended.','tPdkF','WeVlR','51m-FQo0q-','reviews-li','src','ydhyC','classList','https://i.','bxoUI','ly\x20match\x20t','\x20find\x20the\x20','Good\x20stuff','d\x20any\x20orde','Klemens\x20T.','\x20Everythin','hones!\x20Ful','KLjGm','raiment\x20ra','image','slice','ey\x20were\x20$7','review','👍👍👍','/qv8v2J2Z/','e\x20without\x20','kTaXH','Gayla\x20T.\x20-','I\x20didn\x27t\x20b','style','checked','ve\x20additio','createElem','vvDyF','\x20I\x20ordered','6863376937','so\x20much!!!','ry\x20easy\x20to','review-con','earphones.','nfo','fYHcm','dyAwN','ceil','hones\x20are\x20','s\x20actually','click'];_0xcbd6=function(){return _0xc5068a;};return _0xcbd6();}function getRandomColor(){const _0x12a1eb=_0x3606c7,_0x47f59b={'dyAwN':function(_0x276af4,_0x9eb8e){return _0x276af4*_0x9eb8e;}},_0x51f938=Math[_0x12a1eb(0x1af)](_0x47f59b[_0x12a1eb(0x234)](Math[_0x12a1eb(0x1c3)](),logoColors[_0x12a1eb(0x19b)]));return logoColors[_0x51f938];}function renderReviews(_0x18620f){const _0x1147b9=_0x3606c7,_0x204684={'CvYJn':function(_0x592339,_0x81058f){return _0x592339*_0x81058f;},'jVdTa':function(_0x2c9eed,_0x48ed8f){return _0x2c9eed-_0x48ed8f;},'Grjop':function(_0x55bab7,_0x56a098){return _0x55bab7+_0x56a098;},'CMtVE':_0x1147b9(0x20e)+'st','WeVlR':_0x1147b9(0x220),'HpDrE':_0x1147b9(0x1ee),'fYHcm':_0x1147b9(0x1d3),'vvDyF':function(_0x162a1a,_0x2407ff){return _0x162a1a<=_0x2407ff;},'lUtpS':_0x1147b9(0x1ad),'weqgo':_0x1147b9(0x185),'bxoUI':function(_0x2bd024,_0x463f9e){return _0x2bd024<=_0x463f9e;},'qctaR':_0x1147b9(0x228),'fLziP':_0x1147b9(0x1e9)+_0x1147b9(0x232),'bVfxi':_0x1147b9(0x24e),'SRxBX':function(_0x22b470){return _0x22b470();},'ydhyC':_0x1147b9(0x17e),'kXKht':_0x1147b9(0x18d),'lYdCx':_0x1147b9(0x23d)+_0x1147b9(0x232),'kTaXH':_0x1147b9(0x230)+_0x1147b9(0x17b),'Fxogx':_0x1147b9(0x1fa)+_0x1147b9(0x1f1),'KLjGm':_0x1147b9(0x1aa),'UISMC':_0x1147b9(0x1b2)+'ge'},_0xc9d9ec=_0x204684[_0x1147b9(0x1e5)](_0x204684[_0x1147b9(0x1f2)](_0x18620f,0xaa5*-0x1+-0x3da*-0x6+-0xc76),reviewsPerPage),_0x203e6f=_0x204684[_0x1147b9(0x1a9)](_0xc9d9ec,reviewsPerPage),_0x38678d=reviews[_0x1147b9(0x21e)](_0xc9d9ec,_0x203e6f),_0x244cb9=document[_0x1147b9(0x1e7)+_0x1147b9(0x245)](_0x204684[_0x1147b9(0x1fd)]);_0x244cb9[_0x1147b9(0x206)]='';for(const _0x147db4 of _0x38678d){const _0x3d0c43=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)]('li');_0x3d0c43[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x20c)]);const _0x195acc=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x195acc[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x233)]);for(let _0x32cfe2=0x2*-0xfec+0x216b+-0x3*0x86;_0x204684[_0x1147b9(0x22b)](_0x32cfe2,0x469*0x1+-0x68d+0x4f*0x7);_0x32cfe2++){const _0x2018ba=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x1b0)]);_0x2018ba[_0x1147b9(0x211)][_0x1147b9(0x209)]('fa',_0x204684[_0x1147b9(0x1f0)]),_0x204684[_0x1147b9(0x213)](_0x32cfe2,_0x147db4[_0x1147b9(0x1d3)])&&_0x2018ba[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1f5)]),_0x195acc[_0x1147b9(0x189)+'d'](_0x2018ba);}const _0xc7e727=_0x147db4[_0x1147b9(0x1b6)+'fo'][_0x1147b9(0x187)](0x1604+0x13*0x43+-0x1afd),_0x138e2e=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x138e2e[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1cf)]),_0x138e2e[_0x1147b9(0x1ed)+'t']=_0x147db4[_0x1147b9(0x179)+'fo'];const _0x6b67d6=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x6b67d6[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1ec)]),_0x6b67d6[_0x1147b9(0x1ed)+'t']=_0xc7e727;const _0x2abb40=_0x204684[_0x1147b9(0x1a4)](getRandomColor);_0x6b67d6[_0x1147b9(0x227)][_0x1147b9(0x1b4)+_0x1147b9(0x1ef)]=_0x2abb40,_0x6b67d6[_0x1147b9(0x1e8)+_0x1147b9(0x201)](_0x204684[_0x1147b9(0x210)],()=>{const _0x59401f=_0x1147b9;_0x6b67d6[_0x59401f(0x206)]=_0x59401f(0x1a6)+_0x59401f(0x241)+_0x59401f(0x19a)+_0x59401f(0x23b)+_0xc7e727;}),_0x6b67d6[_0x1147b9(0x1e8)+_0x1147b9(0x201)](_0x204684[_0x1147b9(0x1c8)],()=>{const _0x1509da=_0x1147b9;_0x6b67d6[_0x1509da(0x1ed)+'t']=_0xc7e727;});const _0x8987f5=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x8987f5[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1ab)]),_0x8987f5[_0x1147b9(0x1ed)+'t']=_0x147db4[_0x1147b9(0x1b6)+'fo'];const _0x2eceb6=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x2eceb6[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x224)]),_0x2eceb6[_0x1147b9(0x1ed)+'t']=_0x147db4[_0x1147b9(0x247)+_0x1147b9(0x1b7)];const _0x4fc75c=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x197)]);_0x4fc75c[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1dc)]),_0x4fc75c[_0x1147b9(0x189)+'d'](_0x6b67d6),_0x4fc75c[_0x1147b9(0x189)+'d'](_0x8987f5),_0x3d0c43[_0x1147b9(0x189)+'d'](_0x195acc),_0x3d0c43[_0x1147b9(0x189)+'d'](_0x138e2e),_0x3d0c43[_0x1147b9(0x189)+'d'](_0x2eceb6),_0x3d0c43[_0x1147b9(0x189)+'d'](_0x4fc75c);if(_0x147db4[_0x1147b9(0x21d)]){const _0x37a50d=document[_0x1147b9(0x22a)+_0x1147b9(0x1b7)](_0x204684[_0x1147b9(0x21b)]);_0x37a50d[_0x1147b9(0x20f)]=_0x147db4[_0x1147b9(0x21d)],_0x37a50d[_0x1147b9(0x211)][_0x1147b9(0x209)](_0x204684[_0x1147b9(0x1c4)]),_0x3d0c43[_0x1147b9(0x189)+'d'](_0x37a50d);}_0x244cb9[_0x1147b9(0x189)+'d'](_0x3d0c43);}}function renderPagination(_0xe9bb42){const _0x4956c4=_0x3606c7,_0x227fd6={'iBUGI':function(_0x24dfb6,_0x200a56){return _0x24dfb6(_0x200a56);},'dRVuW':function(_0x46f443,_0x5d6b44){return _0x46f443(_0x5d6b44);},'BKKaZ':_0x4956c4(0x1d4),'HJjsc':function(_0x5797b7,_0xc2593c){return _0x5797b7<=_0xc2593c;},'KEmfm':_0x4956c4(0x1ee),'VyTTk':function(_0x5d090c,_0x54bb66){return _0x5d090c+_0x54bb66;},'mlRnC':_0x4956c4(0x238),'asdnQ':function(_0x399507,_0x2d2df0){return _0x399507===_0x2d2df0;},'LREzj':_0x4956c4(0x18e),'tPdkF':_0x4956c4(0x1ac)+'s'},_0x220917=document[_0x4956c4(0x1e7)+_0x4956c4(0x245)](_0x227fd6[_0x4956c4(0x1b5)]);_0x220917[_0x4956c4(0x206)]='';for(let _0x5b5a6d=-0x126f+0x1*-0x1d99+-0x3009*-0x1;_0x227fd6[_0x4956c4(0x1c2)](_0x5b5a6d,totalPages);_0x5b5a6d++){const _0x36ec83=document[_0x4956c4(0x22a)+_0x4956c4(0x1b7)](_0x227fd6[_0x4956c4(0x1a1)]);_0x36ec83[_0x4956c4(0x1ed)+'t']=_0x227fd6[_0x4956c4(0x23f)]('',_0x5b5a6d),_0x36ec83[_0x4956c4(0x1e8)+_0x4956c4(0x201)](_0x227fd6[_0x4956c4(0x1ca)],()=>{const _0x32680e=_0x4956c4;_0x227fd6[_0x32680e(0x249)](renderReviews,_0x5b5a6d),_0x227fd6[_0x32680e(0x1b8)](renderPagination,_0x5b5a6d);}),_0x227fd6[_0x4956c4(0x1fe)](_0x5b5a6d,_0xe9bb42)&&_0x36ec83[_0x4956c4(0x211)][_0x4956c4(0x209)](_0x227fd6[_0x4956c4(0x1cc)]),_0x36ec83[_0x4956c4(0x211)][_0x4956c4(0x209)](_0x227fd6[_0x4956c4(0x20b)]),_0x220917[_0x4956c4(0x189)+'d'](_0x36ec83);}}renderReviews(0x272*0x1+0xa*-0x2c0+-0x503*-0x5),renderPagination(-0x1*-0x865+-0x4*-0x76e+-0x21e*0x12);
+const reviews = [
+    {
+      rating: 5,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "Wow, these earphones are amazing! Super easy to connect, and the sound is pretty darn good. I'm impressed. 🎵",
+      customerInfo: "Klemens T. - Reviewed on Feb 3, 2023"
+      image: "https://i.postimg.cc/8cCFTbZm/Webppro-out-136abc0b8ce635835e5743689fa4aaa0.webp" 
+    },
+    {
+      rating: 5,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "These earphones are the bomb! Sound is crystal clear, and the bass? It's like a party in my ears. Highly recommend! 🎧",
+      customerInfo: "Gage E. - Reviewed on Mar 10, 2023"
+      image: "https://i.postimg.cc/vBYTvzww/51m-FQo0q-T-L-SL1600.webp"  
+    },
+    {
+      rating: 4,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "So far, so good with these earphones. The volume is kinda loud, but hey, it could be my ears. I'll keep using them and maybe leave more feedback later. 🎶",
+      customerInfo: "Gayla T. - Reviewed on Apr 25, 2023"
+    },
+    {
+      rating: 5,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "Just wanna say, thank you so much! These earphones rock! 🤘",
+      customerInfo: "Aliya F. - Reviewed on Jun 2, 2023"
+    },
+    {
+      rating: 5,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "Man, the delivery was crazy fast. They packed it well, and it arrived without a scratch. These are like a steal for the price. Cheap and awesome! 📦💨",
+      customerInfo: "Nour H. - Reviewed on Jul 15, 2023"
+    },
+    {
+      rating: 5,
+      purchaseInfo: "EARPODS PRO",
+      reviewContent: "I mean, for this price, they're practically a steal! I'm diggin' these earphones. 🤑",
+      customerInfo: "Moriya M. - Reviewed on Aug 29, 2023"
+    }
+];
+
+ // Number of reviews to show per page
+ const reviewsPerPage = 3;
+  
+ // Calculate the total number of pages based on reviews count
+ const totalPages = Math.ceil(reviews.length / reviewsPerPage);
+ 
+ // Define an array of colors
+ const logoColors = ["#3d0088", "#880086","#880010","#885900"];
+ 
+ // Function to get a random color from the array
+ function getRandomColor() {
+   const randomIndex = Math.floor(Math.random() * logoColors.length);
+   return logoColors[randomIndex];
+ }
+ 
+ // Function to render reviews for a given page
+ function renderReviews(pageNumber) {
+   const startIndex = (pageNumber - 1) * reviewsPerPage;
+   const endIndex = startIndex + reviewsPerPage;
+   const reviewsSlice = reviews.slice(startIndex, endIndex);
+ 
+   const reviewsList = document.getElementById("reviews-list");
+   reviewsList.innerHTML = "";
+ 
+   for (const review of reviewsSlice) {
+     const reviewElement = document.createElement("li");
+     reviewElement.classList.add("review");
+ 
+     // Rating stars
+     const ratingElement = document.createElement("div");
+     ratingElement.classList.add("rating");
+     for (let i = 1; i <= 5; i++) {
+       const starElement = document.createElement("span");
+       starElement.classList.add("fa", "fa-star");
+       if (i <= review.rating) {
+         starElement.classList.add("checked");
+       }
+       ratingElement.appendChild(starElement);
+     }
+ 
+     // Get the first letter of the customer's first name
+     const firstLetter = review.customerInfo.charAt(0);
+ 
+     // Purchase info
+     const purchaseInfoElement = document.createElement("div");
+     purchaseInfoElement.classList.add("purchase-info");
+     purchaseInfoElement.textContent = review.purchaseInfo;
+ 
+     // Create the user logo element with verification feature
+     const userLogoElement = document.createElement("div");
+     userLogoElement.classList.add("user-logo");
+     userLogoElement.textContent = firstLetter; // Set the logo content to the first letter
+ 
+     // Set a random color to the logo
+     const randomColor = getRandomColor();
+     userLogoElement.style.backgroundColor = randomColor;
+ 
+     // Add event listener for hover
+     userLogoElement.addEventListener("mouseover", () => {
+       userLogoElement.innerHTML = `<span class="fa fa-check"></span>${firstLetter}`;
+     });
+ 
+     userLogoElement.addEventListener("mouseout", () => {
+       userLogoElement.textContent = firstLetter;
+     });
+ 
+     // Customer info
+     const customerInfoElement = document.createElement("div");
+     customerInfoElement.classList.add("customer-info");
+     customerInfoElement.textContent = review.customerInfo;
+ 
+     // Review content
+     const reviewContentElement = document.createElement("div");
+     reviewContentElement.classList.add("review-content");
+     reviewContentElement.textContent = review.reviewContent;
+ 
+     // Create a container element to hold the user logo and customer info
+     const customerContainer = document.createElement("div");
+     customerContainer.classList.add("customer-container");
+     customerContainer.appendChild(userLogoElement);
+     customerContainer.appendChild(customerInfoElement);
+ 
+     reviewElement.appendChild(ratingElement);
+     reviewElement.appendChild(purchaseInfoElement);
+     reviewElement.appendChild(reviewContentElement);
+     reviewElement.appendChild(customerContainer);
+   // Check if the review has an image
+   if (review.image) {
+     const imageElement = document.createElement("img");
+     imageElement.src = review.image;
+     imageElement.classList.add("review-image");
+     reviewElement.appendChild(imageElement);
+   }
+     reviewsList.appendChild(reviewElement);
+ 
+   }
+ }
+ 
+ // Function to render pagination buttons
+ function renderPagination(pageNumber) {
+   const pagination = document.getElementById("pagination");
+   pagination.innerHTML = "";
+ 
+   for (let i = 1; i <= totalPages; i++) {
+     const div = document.createElement("div");
+     div.textContent = "" + i; // Update the button name here
+     div.addEventListener("click", () => {
+       renderReviews(i);
+       renderPagination(i);
+     });
+ 
+     if (i === pageNumber) {
+       div.classList.add("active");
+     }
+ 
+     div.classList.add("div-reviews"); // Add the class "div-reviews"
+     pagination.appendChild(div);
+   }
+ }
+ 
+ // Initial rendering of reviews (page 1)
+ renderReviews(1);
+ 
+ // Initial rendering of pagination buttons
+ renderPagination(1);
