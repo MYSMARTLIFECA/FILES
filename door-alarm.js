@@ -1,43 +1,42 @@
 const reviews = [
     {
       rating: 5,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "Wow, these earphones are amazing! Super easy to connect, and the sound is pretty darn good. I'm impressed. 🎵",
-      customerInfo: "Klemens T. - Reviewed on Feb 3, 2023",
-      image: "https://i.postimg.cc/8cCFTbZm/Webppro-out-136abc0b8ce635835e5743689fa4aaa0.webp" 
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "This portable door stop alarm is a game-changer. It's easy to use and provides an extra layer of security to my home. The alarm is loud, and the device is compact. I feel much safer with this.",
+      customerInfo: "Ella K. - Reviewed on Oct 5, 2023"
     },
     {
       rating: 5,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "These earphones are the bomb! Sound is crystal clear, and the bass? It's like a party in my ears. Highly recommend! 🎧",
-      customerInfo: "Gage E. - Reviewed on Mar 10, 2023",
-      image: "https://i.postimg.cc/vBYTvzww/51m-FQo0q-T-L-SL1600.webp"  
-    },
-    {
-      rating: 4,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "So far, so good with these earphones. The volume is kinda loud, but hey, it could be my ears. I'll keep using them and maybe leave more feedback later. 🎶",
-      customerInfo: "Gayla T. - Reviewed on Apr 25, 2023"
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "I love this door stop alarm! It's a simple yet effective way to enhance home security. The alarm is quite loud, and it's portable, making it perfect for travel. I highly recommend it.",
+      customerInfo: "Mason R. - Reviewed on Oct 10, 2023"
     },
     {
       rating: 5,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "Just wanna say, thank you so much! These earphones rock! 🤘",
-      customerInfo: "Aliya F. - Reviewed on Jun 2, 2023"
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "I feel more secure with this door stop alarm. It's easy to install and use. The alarm is quite loud, and I love the portability. Whether at home or on the go, it's a must-have for safety.",
+      customerInfo: "Sophie L. - Reviewed on Oct 15, 2023"
     },
     {
       rating: 5,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "Man, the delivery was crazy fast. They packed it well, and it arrived without a scratch. These are like a steal for the price. Cheap and awesome! 📦💨",
-      customerInfo: "Nour H. - Reviewed on Jul 15, 2023"
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "This door stop alarm is fantastic. It adds an extra layer of protection to my home. The alarm is loud enough to alert anyone nearby, and it's compact for travel. I recommend it to everyone.",
+      customerInfo: "Nathan C. - Reviewed on Oct 20, 2023"
     },
     {
       rating: 5,
-      purchaseInfo: "EARPODS PRO",
-      reviewContent: "I mean, for this price, they're practically a steal! I'm diggin' these earphones. 🤑",
-      customerInfo: "Moriya M. - Reviewed on Aug 29, 2023"
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "I'm impressed with this door stop alarm. It's a simple yet effective security solution. The loud alarm and portability are great features. I feel safer at home and during my travels.",
+      customerInfo: "Olivia M. - Reviewed on Oct 25, 2023"
+    },
+    {
+      rating: 5,
+      purchaseInfo: "Portable Door Stop Alarm - Secure Your Home or Apartment Anywhere",
+      reviewContent: "This door stop alarm is a must-have for home security. The alarm is loud, and the device is easy to use. I take it with me when traveling for added peace of mind. Highly recommended!",
+      customerInfo: "Daniel W. - Reviewed on Oct 30, 2023"
     }
-];
+  ]; 
+   
 
  // Number of reviews to show per page
  const reviewsPerPage = 3;
