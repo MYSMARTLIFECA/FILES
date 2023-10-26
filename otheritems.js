@@ -12,7 +12,7 @@ function calculateTime() {
     
     // Format the result as "MMM DD" string
     var result1 = futureDate1.toLocaleString('default', { month: 'short', day: 'numeric' });
-    var result2 = futureDate2.toLocaleString('default', { month: 'short', day: 'numeric' });
+    var result2 = futureDate2.toLocaleString('default', {day: 'numeric' });
     
     // Get all the elements with the class "timeDisplay"
     var timeDisplays = document.getElementsByClassName("otheritems");
