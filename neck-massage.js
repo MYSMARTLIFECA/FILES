@@ -2,30 +2,30 @@ const reviews = [
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "Good quality I loved it",
+    reviewContent: "I'm really impressed with the quality of this massager. It's been a great addition to my relaxation routine.",
     customerInfo: "Shilon T. - Reviewed on Sep 3, 2023",
-  },
-  {
-    rating: 5,
-    purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "Omg this helps so much with my back and I am currently pregnant so ladies let me just tell u buy it it’s worth the money 😁",
-    customerInfo: "Monica H. - Reviewed on Sep 10, 2023",
     image: "https://i.postimg.cc/mgKnM9vB/dc2c0d79-3015-4ef4-85a7-93afbafcc634.webp"
   },
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "It's great for back and neck massages. I'm glad I purchased it.",
+    reviewContent: "Oh my goodness, this massager has been a lifesaver for my back, especially during my pregnancy. Ladies, let me tell you, it's worth every penny! 😁",
+    customerInfo: "Monica H. - Reviewed on Sep 10, 2023",
+    image: "https://i.postimg.cc/fbjvL0ZH/3c782ad0-d559-428e-bf9d-5bbb77a69ceb.webp" 
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Back And Neck Massager With Heat",
+    reviewContent: "This massager is fantastic for back and neck massages. I'm so glad I purchased it; it's been a game-changer for me.",
     customerInfo: "Sarah T. - Reviewed on Sep 25, 2023",
   },
   {
     rating: 5,
     purchaseInfo: "Back And Neck Massager With Heat",
-    reviewContent: "Thank you so much!!!",
+    reviewContent: "I can't thank you enough for this massager! It's been a true relief for my aches and pains.",
     customerInfo: "Alyca F. - Reviewed on Oct 2, 2023",
-    image: "https://i.postimg.cc/fbjvL0ZH/3c782ad0-d559-428e-bf9d-5bbb77a69ceb.webp"
-  },
 
+  }
 ];
 
 
