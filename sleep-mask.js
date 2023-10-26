@@ -2,40 +2,41 @@ const reviews = [
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "I'm in love with this sleep mask! The headphones are so comfortable, and I can adjust the fit to my liking. Being washable is a bonus. I've been having the best nights of sleep with this."
+      reviewContent: "I'm in love with this sleep mask! The headphones are so comfortable, and I can adjust the fit to my liking. Being washable is a bonus. I've been having the best nights of sleep with this.",
       customerInfo: "Ella K. - Reviewed on Oct 5, 2023"
     },
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "I've tried various sleep masks, but this one is by far the best. The wireless headphones are a game-changer for my sleep routine. They are adjustable and incredibly comfortable. I can't sleep without it now."
+      reviewContent: "I've tried various sleep masks, but this one is by far the best. The wireless headphones are a game-changer for my sleep routine. They are adjustable and incredibly comfortable. I can't sleep without it now.",
       customerInfo: "Mason R. - Reviewed on Oct 10, 2023"
     },
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "This sleep mask is a lifesaver. It's adjustable and fits perfectly. The wireless headphones are crystal clear, and it's so convenient that I can wash it. My nights are much more restful."
+      reviewContent: "This sleep mask is a lifesaver. It's adjustable and fits perfectly. The wireless headphones are crystal clear, and it's so convenient that I can wash it. My nights are much more restful.",
       customerInfo: "Sophie L. - Reviewed on Oct 15, 2023"
     },
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "I've struggled with sleep for a while, but this sleep mask has made a world of difference. The headphones are top-notch, and the mask is so easy to clean. I'm finally getting the sleep I need."
+      reviewContent: "I've struggled with sleep for a while, but this sleep mask has made a world of difference. The headphones are top-notch, and the mask is so easy to clean. I'm finally getting the sleep I need.",
       customerInfo: "Nathan C. - Reviewed on Oct 20, 2023"
     },
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "The comfort of this sleep mask is unparalleled. The wireless headphones are clear and have excellent battery life. Being washable is a huge advantage. I can't recommend it enough."
+      reviewContent: "The comfort of this sleep mask is unparalleled. The wireless headphones are clear and have excellent battery life. Being washable is a huge advantage. I can't recommend it enough.",
       customerInfo: "Olivia M. - Reviewed on Oct 25, 2023"
     },
     {
       rating: 5,
       purchaseInfo: "Wireless Sleep Mask, Sleep Headphones, Adjustable & Washable",
-      reviewContent: "This sleep mask is a dream come true. The headphones are fantastic, and the washable feature is a game-changer. I've never slept better. If you're looking for a sleep solution, this is it."
+      reviewContent: "This sleep mask is a dream come true. The headphones are fantastic, and the washable feature is a game-changer. I've never slept better. If you're looking for a sleep solution, this is it.",
       customerInfo: "Daniel W. - Reviewed on Oct 30, 2023"
     }
   ];
+   
     
        
      
