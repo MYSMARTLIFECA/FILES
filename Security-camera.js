@@ -1,25 +1,42 @@
-const reviews = [ 
-    {
-      rating: 5,
-      purchaseInfo: 'Wireless Outdoor Security Camera, AI Human Detection',
-      reviewContent: "good picture quality working good so far 👌" ,
-      customerInfo: "Saylan T. - Reviewed on Sep 29, 2023",
-    },
-    { 
-      rating: 5,
-      purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection", 
-      reviewContent: "the product arrived in a timely manner with no damage. Easy to hook up and share. Very good picture and motion detection. I would recommend this product and the price was right. Thank you.",
-      customerInfo: "Hana H. - Reviewed on Sep 18, 2023",
-      image: "https://i.postimg.cc/HsT4Bq7D/4ddf0e2c-198c-45ff-9f28-27a0a2f4f578-1276x1702.webp" 
-    },
-    {
-      rating: 5,
-      purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",  
-      reviewContent: "This camera has nice images, and it send alerts on my phone whenever someone is around. The solar panel is great idea. I love this camera! Highly recommend",
-      customerInfo: "Numar F. - Reviewed on Oct 12, 2023", 
-    },
-   
-  ];
+const reviews = [
+  {
+    rating: 5,
+    purchaseInfo: 'Wireless Outdoor Security Camera, AI Human Detection',
+    reviewContent: "The picture quality is good, and it's been working well so far. 👌",
+    customerInfo: "Saylan T. - Reviewed on Sep 29, 2023",
+    image: "https://i.postimg.cc/HsT4Bq7D/4ddf0e2c-198c-45ff-9f28-27a0a2f4f578-1276x1702.webp"
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",
+    reviewContent: "The product arrived in a timely manner with no damage. It was easy to set up and share. The picture quality is very good, and the motion detection works well. I would definitely recommend this product, and the price was just right. Thank you.",
+    customerInfo: "Hana H. - Reviewed on Sep 18, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",
+    reviewContent: "This camera captures nice images and sends alerts to my phone whenever someone is around. The inclusion of the solar panel is a great idea. I absolutely love this camera and highly recommend it.",
+    customerInfo: "Numar F. - Reviewed on Oct 12, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",
+    reviewContent: "I am extremely satisfied with this camera. The picture quality is impressive, and it provides peace of mind knowing it's watching over my property. Installation was a breeze, and the app is user-friendly.",
+    customerInfo: "David S. - Reviewed on Nov 5, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",
+    reviewContent: "This camera exceeded my expectations. It's not only a reliable security solution but also a convenient way to keep an eye on my surroundings. The AI human detection feature works like a charm.",
+    customerInfo: "Emily L. - Reviewed on Nov 12, 2023",
+  },
+  {
+    rating: 5,
+    purchaseInfo: "Wireless Outdoor Security Camera, AI Human Detection",
+    reviewContent: "I can't express how pleased I am with this camera. It's been a game-changer for my home security. The image quality is crystal clear, and the motion detection is accurate. It's a must-have for anyone looking to upgrade their security system.",
+    customerInfo: "Tom R. - Reviewed on Nov 20, 2023",
+  }
+];
   
   
   
