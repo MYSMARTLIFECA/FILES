@@ -22,6 +22,7 @@
     .rating {
       color: black; /* Gold color */
       font-size: 13px;
+      margin: 10px 0px; 
     }
 
     .fa-star {
