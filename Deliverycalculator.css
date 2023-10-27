@@ -14,7 +14,7 @@
       border-radius: 0px 40px 0px 40px;
       position: relative;
       cursor: help;
-      background-color: #ee8943;
+      background-color: #f5bc94; 
   }
   
   @media only screen and (max-width: 768px) {
