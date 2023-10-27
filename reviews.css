@@ -14,11 +14,11 @@
     .review {
       margin-bottom: 4px;
       background-color: #0000001a;
-      box-shadow: 5px 5px 5px rgb(0 0 0 / 20%);
+      box-shadow: 5px 5px 5px rgb(0 0 0 / 14%); 
       padding: 31px;
       border-radius: 40px;
   }
-  
+
     .rating {
       color: black; /* Gold color */
       font-size: 13px;
