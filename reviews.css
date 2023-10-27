@@ -11,16 +11,14 @@
       grid-gap: 20px;
     }
 
-    /* Review */
     .review {
-      margin-bottom: 13px;
-      border-radius: 25px;
-      background-color: #80808026;
-      box-shadow: 5px 0px 20px rgb(0 0 0 / 12%); 
-      padding: 6% 6%;
+      margin-bottom: 4px;
+      background-color: #0000001a;
+      box-shadow: 5px 5px 5px rgb(0 0 0 / 20%);
+      padding: 31px;
+      border-radius: 40px;
   }
-
-    /* Rating stars */
+  
     .rating {
       color: black; /* Gold color */
       font-size: 13px;
