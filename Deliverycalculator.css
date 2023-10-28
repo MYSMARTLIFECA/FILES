@@ -11,7 +11,8 @@
       font-family: 'Questrial', sans-serif;
       margin: 10px;
       width: 28%;
-      border-radius: 0px 40px 0px 40px;
+      padding: 10px;
+      border-radius: 13px;
       position: relative;
       cursor: help;
       background-color: #f5bc94;
