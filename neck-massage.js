@@ -31,7 +31,7 @@ const reviews = [
 
 
 // Number of reviews to show per page
-const reviewsPerPage = 3;
+const reviewsPerPage = 4;
 
 // Calculate the total number of pages based on reviews count
 const totalPages = Math.ceil(reviews.length / reviewsPerPage);
