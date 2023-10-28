@@ -66,10 +66,3 @@
     margin-top: 5%;
 }
 
-@media (min-width: 768px) {
-    .product-form {
-
-        margin: 0 20%;
-    }
-}
-
