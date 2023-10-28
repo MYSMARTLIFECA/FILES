@@ -7,14 +7,14 @@
     .delivery-stage {
       flex: 1;
       text-align: center;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      box-shadow: 4px 0px 20px rgb(0 0 0 / 15%);
       font-family: 'Questrial', sans-serif;
       margin: 10px;
       width: 28%;
       border-radius: 0px 40px 0px 40px;
       position: relative;
       cursor: help;
-      background-color: #f5bc94; 
+      background-color: #f5bc94;
   }
   
   @media only screen and (max-width: 768px) {
