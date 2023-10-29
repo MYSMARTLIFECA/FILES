@@ -29,12 +29,13 @@
     .delivery-stage h2 {
       margin-top: 0;
       font-size: 100%;
+      color: #171717; 
     }
     
     .delivery-stage i {
     font-size: 124%;
     margin: 2%;
-    color: #333;
+    color: #171717; 
     transition: transform 0.3s ease-in-out;
     }
     
