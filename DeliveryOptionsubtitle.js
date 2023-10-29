@@ -22,7 +22,7 @@ function generatesameDeliveryTracker() {
     </div>
   `;
 
-  document.getElementById("delivery-tracker").innerHTML = deliveryTrackerHTML;
+  document.getElementById("Same-day-delivery").innerHTML = deliveryTrackerHTML; 
 
   var currentDate = new Date();
   document.getElementById("currentDate").textContent = formatDate(currentDate);
@@ -81,7 +81,7 @@ function generateDeliveryTrackerExtended() {
   `;
 
 
-  document.getElementById("delivery-tracker-extended").innerHTML = deliveryTrackerHTML;
+  document.getElementById("Faster-delivery-for-art-wall").innerHTML = deliveryTrackerHTML; 
 
   var currentDate = new Date();
 
@@ -133,7 +133,7 @@ function generateDeliveryTrackerforotheritems() {
     </div>
   `;
 
-  document.getElementById("otheritems").innerHTML = deliveryTrackerHTML;
+  document.getElementById("Normal-Products").innerHTML = deliveryTrackerHTML;
 
   var currentDate = new Date();
 
