@@ -101,7 +101,7 @@
     }
     .div-reviews.active {
       font-weight: bold;
-      color: darkred;
+      color: #E97451; 
       font-size: 16px;
     }
     .grey-line {
