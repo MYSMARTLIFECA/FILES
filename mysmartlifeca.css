@@ -1,0 +1,135 @@
+.delivery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .delivery-stage {
+    flex: 1;
+    text-align: center;
+    box-shadow: 4px 0px 20px rgb(0 0 0 / 15%);
+    font-family: 'Questrial', sans-serif;
+    margin: 10px;
+    width: 28%;
+    padding: 10px;
+    border-radius: 13px;
+    position: relative;
+    cursor: help;
+    background-color: #f5bc94;
+}
+
+@media only screen and (max-width: 768px) {
+    .delivery-stage {
+        padding: 10px; 
+    } 
+}
+
+
+  
+  .delivery-stage h2 {
+    margin-top: 0;
+    font-size: 100%;
+  }
+  
+  .delivery-stage i {
+  font-size: 124%;
+  margin: 2%;
+  color: #333;
+  transition: transform 0.3s ease-in-out;
+  }
+  
+  .delivery-stage i:hover {
+    transform: scale(1.2);
+  }
+  
+  .delivery-stage h2::after {
+    content: attr(data-description);
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 14px;
+    opacity: 0;
+    z-index:999999;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .delivery-stage h2:hover::after {
+    display: block;
+    opacity: 1;
+  }
+
+  @media (min-width: 768px) {
+    .testthis {
+        font-family: Questrial;
+    }
+
+    .cc {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 2 2%;
+    }
+
+
+} 
+
+.descriptiondiv{
+  border-radius: 20px;
+  padding: 2% 2%;
+}
+ 
+.sizes-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+    font-family: 'Questrial';
+}
+.sizes-table th,
+.sizes-table td {
+  padding: 8px;
+  text-align: left;
+  
+  border-bottom: 1px solid #ddd;
+}
+
+.sizes-table th {
+  font-weight: bold;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .flex-item {
+    flex-basis: calc(33.33% - 15px);
+    margin-bottom: 20px;
+    font-family: "Questrial", sans-serif;
+    text-align: center;
+  }
+
+  .flex-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  .flex-item h1 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+  .flex-item p {
+    font-size: 100%;
+    margin-top: 5%;
+}
+
+ 
