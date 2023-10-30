@@ -15,6 +15,7 @@
       font-size: 110%;
       border-radius: 13px;
       position: relative;
+      font-weight: bold;
       cursor: help;
       background-color: #E97451; 
   }
