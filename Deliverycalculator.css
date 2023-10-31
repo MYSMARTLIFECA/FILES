@@ -35,10 +35,11 @@
     }
     
     .delivery-stage i {
-    font-size: 124%;
-    margin: 2%;
-    color: #171717; 
-    transition: transform 0.3s ease-in-out;
+      font-size: 15px;
+      margin: 0px 0px 12px 0px; 
+      animation: shake 10s infinite; 
+      color: #252525;
+      transition: transform 0.3s ease-in-out;
     }
     
     .delivery-stage i:hover {
