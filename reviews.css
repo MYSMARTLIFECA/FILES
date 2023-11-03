@@ -51,9 +51,10 @@
 
     /* Review content */
     .review-content {
-      font-size: 15px;
+      font-size: 12px;
       font-family: Questrial;
-      margin: 2% 0;
+      line-height: 1.4;
+      margin: 8% 0; 
     }
 
     /* Pagination */
