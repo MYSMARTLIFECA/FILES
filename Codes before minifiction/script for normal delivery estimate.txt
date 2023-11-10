@@ -1,0 +1,35 @@
+  <!-- Delivery Estimate Code -->  
+    <script>
+    // Function to generate a random number between min and max (inclusive)
+    function getRandomNumber(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+    // Get today's date
+    const today = new Date();
+    const orderDateElement = document.getElementById('orderDate');
+    orderDateElement.textContent = formatDate(today);
+
+    // Calculate shipping and delivery dates
+    const shipDaysMin = 1;
+    const shipDaysMax = 3;
+    const deliveryDaysMin = 6;
+    const deliveryDaysMax = 13;
+
+    const shippingTime = getRandomNumber(shipDaysMin, shipDaysMax);
+    const deliveryTime = getRandomNumber(deliveryDaysMin, deliveryDaysMax);
+
+    const shipDate = new Date(today);
+    shipDate.setDate(today.getDate() + shippingTime);
+    const shipDateElement = document.getElementById('shipDate');
+    shipDateElement.textContent = formatDate(shipDate);
+
+    const deliveryDate = new Date(shipDate);
+    deliveryDate.setDate(shipDate.getDate() + deliveryTime);
+    const deliveryDateElement = document.getElementById('deliveryDate');
+    deliveryDateElement.textContent = formatDate(deliveryDate);
+
+    // Function to format a date as "Short Month Day" (e.g., "Nov 05")
+    function formatDate(date) {
+      const options = { month: 'short', day: '2-digit' };
+      return date.toLocaleDateString(undefined, options);
+    }

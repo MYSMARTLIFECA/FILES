@@ -1,0 +1,68 @@
+ // Function to load XML data and convert it to JSON-LD
+    function loadXML() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var xmlDoc = xhttp.responseXML;
+                var items = xmlDoc.getElementsByTagName("item");
+
+                var jsonLdData = {
+                    "@context": "http://schema.org",
+                    "@type": "ItemList",
+                    "itemListElement": []
+                };
+
+                for (var i = 0; i < items.length; i++) {
+                    var item = items[i];
+                    var title = item.getElementsByTagName("g:title")[0].textContent;
+                    var description = item.getElementsByTagName("g:description")[0].textContent;
+                    var price = item.getElementsByTagName("g:price")[0].textContent;
+
+                    // Remove "CAD" from the price
+                    price = price.replace(" CAD", "");
+
+                    var link = item.getElementsByTagName("g:link")[0].textContent;
+                    var imageLink = item.getElementsByTagName("g:image_link")[0].textContent;
+
+                    // Add product data to JSON-LD
+                    var productData = {
+                        "@type": "Product",
+                        "name": title,
+                        "description": description,
+                        "offers": {
+                            "@type": "Offer",
+                            "price": price,
+                            "priceCurrency": "CAD",
+                            "availability": "https://schema.org/InStock",
+                            "url": link,
+                            "shippingDetails": {
+                                "@type": "OfferShippingDetails",
+                                "shippingLabel": "Free shipping",
+                                "shippingCost": "0.00 CAD",
+                                "shippingCurrency": "CAD",
+                                "shippingDestination": "Worldwide"
+                            },
+                            "hasMerchantReturnPolicy": {
+                                "@type": "MerchantReturnPolicy",
+                                "refundType": "FullRefund",
+                                "returnPolicyCategory": "FreeReturns",
+                                "returnPolicyDescription": "Full refund available within 30 days of purchase."
+                            }
+                        },
+                        "image": imageLink,
+                    };
+
+                    jsonLdData.itemListElement.push(productData);
+                }
+
+                // Convert JSON data to a string and set it as JSON-LD script
+                var jsonLdScript = document.querySelector('script[type="application/ld+json"]');
+                jsonLdScript.textContent = JSON.stringify(jsonLdData, null, 2);
+            }
+        };
+        xhttp.open("GET", "https://www.mysmartlife.ca/products.xml", true); // Correct URL
+        xhttp.send();
+    }
+
+    // Call the loadXML function to initiate the process
+    loadXML();

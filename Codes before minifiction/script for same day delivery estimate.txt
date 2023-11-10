@@ -1,0 +1,35 @@
+ <script>  
+      // Function to format a date as 'd M' (e.g., '2 Nov')
+      function formatDateShort(date) {
+      const day = date.getDate();
+      const month = date.toLocaleString('default', { month: 'short' });
+      return `${day} ${month}`;
+  }
+
+  // Function to calculate and display the dates
+  function calculateDates() {
+    const now = new Date();
+    const shipDate = new Date(now);
+    const deliveryDate = new Date(now);
+
+    if (now.getHours() >= 17) {
+      // If it's after 5 PM, set 'Order Ships' to the next day
+      shipDate.setDate(now.getDate() + 1);
+      deliveryDate.setDate(now.getDate() + 1);
+    }
+
+    // Check if it's before 5 PM
+    if (now.getHours() < 17) {
+      document.getElementById('orderDate').textContent = formatDateShort(now);
+      document.getElementById('shipDate').textContent = formatDateShort(shipDate);
+      document.getElementById('deliveryDate').textContent = 'Before 11 PM';
+    } else {
+      document.getElementById('orderDate').textContent = formatDateShort(now);
+      document.getElementById('shipDate').textContent = formatDateShort(shipDate);
+      document.getElementById('deliveryDate').textContent = 'Tomorrow';
+    }
+  }
+
+  // Call the function to calculate and display the dates
+  calculateDates();
+</script>

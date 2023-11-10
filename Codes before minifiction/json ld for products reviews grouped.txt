@@ -1,0 +1,300 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Simulation Flame Ultrasonic Humidifier",
+  "description": "Average rating of 4.7 based on user reviews.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "3"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Paca T.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "This diffuser is a game-changer! The flames and lighting create a cozy atmosphere..."
+    },
+    {
+      "@type": "Review",
+      "author": "Marta H.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I love this diffuser! It creates a cozy ambiance with the flame effect..."
+    },
+    {
+      "@type": "Review",
+      "author": "John D.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I was skeptical about this diffuser, but it exceeded my expectations..."
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "iWatch Series 8 (45mm)",
+  "description": "Average rating of 4.7 based on user reviews.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "5"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Jake M.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "an exceptional timepiece. Its sleek and stylish design sets it apart..."
+    },
+    {
+      "@type": "Review",
+      "author": "Samantha R.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "offers a sense of sophistication and garners compliments. I'm satisfied with my purchase..."
+    },
+    {
+      "@type": "Review",
+      "author": "Max K.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "high-end aura. Its premium design is a delight to wear, providing an exceptional experience..."
+    },
+    {
+      "@type": "Review",
+      "author": "Lindsay P.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "This watch complements my iPhone seamlessly, serving as my tech-savvy sidekick..."
+    },
+    {
+      "@type": "Review",
+      "author": "Chris S.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Wearing the Watch is akin to making a fashion statement. It emanates a trendsetting vibe..."
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Eye Massager with Built-In Speaker",
+  "description": "Average rating of 4.7 based on user reviews.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "5"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Lena B.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "This eye massager is a game-changer! It feels like a soothing oasis for my tired eyes..."
+    },
+    {
+      "@type": "Review",
+      "author": "Sam R.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I'm pleasantly surprised by this eye massager. It's like a mini-vacation for my eyes..."
+    },
+    {
+      "@type": "Review",
+      "author": "Lisa H.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "So good! I've been using this eye massager, and it really helps with my eye strain..."
+    },
+    {
+      "@type": "Review",
+      "author": "Amy G.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I can't express how much I love this eye massager. It's pure bliss for my eyes..."
+    },
+    {
+      "@type": "Review",
+      "author": "Jason L.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "This eye massager is great, but the price is a bit steep for me. The relief it brings is worth it..."
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "EarPods Pro 2023",
+  "description": "Average rating of 4.8 based on user reviews.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "6"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Klemens T.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Wow, these earphones are amazing! Super easy to connect, and the sound is pretty darn good..."
+    },
+    {
+      "@type": "Review",
+      "author": "Gage E.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "These earphones are the bomb! Sound is crystal clear, and the bass? It's like a party in my ears..."
+    },
+    {
+      "@type": "Review",
+      "author": "Gayla T.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "So far, so good with these earphones. The volume is kinda loud, but hey, it could be my ears..."
+    },
+    {
+      "@type": "Review",
+      "author": "Aliya F.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Just wanna say, thank you so much! These earphones rock!"
+    },
+    {
+      "@type": "Review",
+      "author": "Nour H.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Man, the delivery was crazy fast. They packed it well, and it arrived without a scratch..."
+    },
+    {
+      "@type": "Review",
+      "author": "Moriya M.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I mean, for this price, they're practically a steal! I'm diggin' these earphones..."
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Smart Home Button Pusher: Tuya Finger Robot Switch",
+  "description": "Average rating of 4.8 based on user reviews.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "6"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Alex",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "This device is a lifesaver! It seamlessly controls various buttons and switches in my home..."
+    },
+    {
+      "@type": "Review",
+      "author": "Emma",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "The smart button pusher does its job well. It's a handy addition to my home automation setup..."
+    },
+    {
+      "@type": "Review",
+      "author": "James",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "This gadget is a real game-changer. It makes controlling my smart devices effortless..."
+    },
+    {
+      "@type": "Review",
+      "author": "Lily",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "I'm pleasantly surprised by the convenience this device brings to my daily life..."
+    },
+    {
+      "@type": "Review",
+      "author": "John",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "I can't believe I didn't get this sooner! It's like having an extra hand for managing my home..."
+    },
+    {
+      "@type": "Review",
+      "author": "Sarah",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "reviewBody": "The smart button pusher is a helpful addition to my smart home..."
+    }
+  ]
+}
+</script>

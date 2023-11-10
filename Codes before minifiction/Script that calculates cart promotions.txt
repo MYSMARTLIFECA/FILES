@@ -1,0 +1,38 @@
+ function updateSubtotalAndPromotion() {
+        const totalElement = document.querySelector('.total-right#totalAmount');
+        const subtotalElement = document.getElementById('subtotalAmount');
+        const promotionElement = document.getElementById('promotionAmount');
+        const taxElement = document.getElementById('taxAmount');
+        const ShippingElement = document.getElementById('ShippingFee');
+        const SpecialOfferElement = document.getElementById('SpecialOffer');
+        const AfterPayElement = document.getElementById('AfterPay');
+        const TotalSavingsElement = document.getElementById('savingsAmount');
+
+        const totalText = totalElement.textContent;
+        const totalMatch = parseFloat(totalText.replace(/[^\d.]/g, ''));
+
+        if (!isNaN(totalMatch)) {
+            const newSubtotal = totalMatch * 2;
+            const newPromotion = newSubtotal / 2;
+            const newtax = totalMatch * 0.0;
+            const newShippingFee = 7.99;
+            const NewSpecialOffer = 7.99;
+            const NewAfterPay = totalMatch / 4;
+            const TotalSavings = newPromotion + newShippingFee;
+
+            subtotalElement.textContent = '$' + newSubtotal.toFixed(2);
+            promotionElement.textContent = '-$' + newPromotion.toFixed(2);
+            taxElement.textContent = '$' + newtax.toFixed(2);
+            ShippingElement.textContent = '$' + newShippingFee.toFixed(2);
+            SpecialOfferElement.textContent = '-$' + NewSpecialOffer.toFixed(2);
+            AfterPayElement.textContent = '$' + NewAfterPay.toFixed(2);
+            TotalSavingsElement.textContent = '$' + TotalSavings.toFixed(2);
+        }
+    }
+
+    // Add an event listener to the "Total" element to detect changes
+    const totalElement = document.querySelector('.total-right#totalAmount');
+    totalElement.addEventListener('DOMSubtreeModified', updateSubtotalAndPromotion);
+
+    // Initial update
+    updateSubtotalAndPromotion();

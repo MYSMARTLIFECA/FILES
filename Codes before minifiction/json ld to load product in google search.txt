@@ -1,0 +1,19 @@
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Product",
+      "name": "{{ product.name }}",
+      "description": "{{ product.description | strip_html | escape | truncate: 400 }}",
+      "url": "https://www.mysmartlife.ca{{ product.url }}", 
+      "offers": {
+        "@type": "Offer",
+        "price": "{{ product.default_price}}",
+        "priceCurrency": "CAD",
+        "availability": "https://schema.org/InStock" 
+      },
+{% assign first_image = product.images | first %}
+{% if first_image %}
+  "image": "{{ first_image | product_image_url | constrain: 500 }}" 
+{% endif %}
+    } 
+  </script> 

@@ -1,0 +1,12 @@
+ <script>
+const taxNotification = document.getElementById("tax-notification");
+function showTaxNotification() {
+  setTimeout(() => {
+    taxNotification.classList.add("show-tax-notification");
+    setTimeout(() => {
+      taxNotification.classList.remove("show-tax-notification");
+    }, 8000);
+  }, 1500); 
+}
+window.addEventListener("load", showTaxNotification);
+</script>
